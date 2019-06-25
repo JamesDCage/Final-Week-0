@@ -138,8 +138,8 @@ Golden Hibachi Buffet,Chinese Restaurant,31.838536156284025,-81.59644841869489,G
 Panda Express,Chinese Restaurant,31.822362,-81.59995,GA,0,1,0,0,0,0,0
 Basil Thai,Thai Restaurant,31.147584,-81.494951,GA,0,0,0,0,0,1,0
 Fancy Q Sushi Bar & Grill,Japanese Restaurant,31.162380854696035,-81.38897006706945,GA,0,0,0,1,0,0,0
-Fancy Q,Japanese Restaurant,31.19388679315297,-81.47977440834259,GA,0,0,0,1,0,0,0
 Seasons Of Japan,Japanese Restaurant,31.202949398958967,-81.48222923827352,GA,0,0,0,1,0,0,0
+Fancy Q,Japanese Restaurant,31.19388679315297,-81.47977440834259,GA,0,0,0,1,0,0,0
 Tip Tum Thai,Thai Restaurant,31.22666833526042,-81.52735241170689,GA,0,0,0,0,0,1,0
 Orient Express,Chinese Restaurant,31.84124210842649,-81.60158179939276,GA,0,1,0,0,0,0,0
 Kobe Japanese Steakhouse,Japanese Restaurant,31.85423157489538,-81.57741380724806,GA,0,0,0,1,0,0,0
@@ -191,10 +191,10 @@ Hibachi Grill Supreme Buffet,Asian Restaurant,32.482021281031166,-84.94469594574
 Mandarin Cafe,Chinese Restaurant,32.53240230101492,-84.95445942249611,GA,0,1,0,0,0,0,0
 Chili Thai,Thai Restaurant,32.46494281755456,-84.99418267415837,GA,0,0,0,0,0,1,0
 Thai House,Thai Restaurant,32.5234792,-84.958715,GA,0,0,0,0,0,1,0
-Panda Garden,Chinese Restaurant,32.52092208116921,-84.88915281178427,GA,0,1,0,0,0,0,0
-Fuji Japanese Steakhouse,Japanese Restaurant,32.53864534473995,-84.95590570959652,GA,0,0,0,1,0,0,0
-New China,Chinese Restaurant,32.5383719813171,-84.9555759792113,GA,0,1,0,0,0,0,0
 New China Express (Dolla Scoop),Chinese Restaurant,32.53650177259679,-84.87831737793266,GA,0,1,0,0,0,0,0
+Fuji Japanese Steakhouse,Japanese Restaurant,32.53864534473995,-84.95590570959652,GA,0,0,0,1,0,0,0
+Panda Garden,Chinese Restaurant,32.52092208116921,-84.88915281178427,GA,0,1,0,0,0,0,0
+New China,Chinese Restaurant,32.5383719813171,-84.9555759792113,GA,0,1,0,0,0,0,0
 Wasabi Sushi & Thai,Thai Restaurant,32.53402955964205,-84.96695662812375,GA,0,0,0,0,0,1,0
 Lin China,Chinese Restaurant,32.55731536444457,-84.90522915618465,GA,0,1,0,0,0,0,0
 Samurai Japanese Cuisine and Sushi Bar,Japanese Restaurant,32.46527096654288,-84.99335577026281,GA,0,0,0,1,0,0,0
@@ -474,8 +474,8 @@ Happy China II,Chinese Restaurant,32.06487,-81.05837,GA,0,1,0,0,0,0,0
 Savannah Fried Chicken,Chinese Restaurant,32.01264,-81.077951,GA,0,1,0,0,0,0,0
 Lai Wah,Chinese Restaurant,32.000572992016345,-81.07759734647598,GA,0,1,0,0,0,0,0
 Panda,Chinese Restaurant,32.01537200595584,-80.97792527397847,GA,0,1,0,0,0,0,0
-Teriyaki Express,Japanese Restaurant,32.039242750359875,-81.06731834946267,GA,0,0,0,1,0,0,0
 Egg Roll King,Chinese Restaurant,32.044280990631606,-81.07221858841034,GA,0,1,0,0,0,0,0
+Teriyaki Express,Japanese Restaurant,32.039242750359875,-81.06731834946267,GA,0,0,0,1,0,0,0
 Heiwa's,Japanese Restaurant,31.98499150079947,-81.07444224392985,GA,0,0,0,1,0,0,0
 Seasons Of Japan,Japanese Restaurant,32.04362224957417,-81.07209418106304,GA,0,0,0,1,0,0,0
 Seaons of Japan,Japanese Restaurant,32.04498547725284,-81.07200793837497,GA,0,0,0,1,0,0,0
@@ -857,8 +857,8 @@ House Of China,Chinese Restaurant,33.90953687,-84.80536214,GA,0,1,0,0,0,0,0
 Hibachi & Grill Sushi Buffet,Asian Restaurant,34.17436,-84.7874109,GA,1,0,0,0,0,0,0
 Asian Express,Asian Restaurant,33.8910555198623,-84.75687193435715,GA,1,0,0,0,0,0,0
 Atami Grill And Sushi,Japanese Restaurant,33.95482421614082,-84.6567088752982,GA,0,0,0,1,0,0,0
-Hong Kong,Chinese Restaurant,34.20111034433581,-84.78819130333551,GA,0,1,0,0,0,0,0
 Pacific Spice Sushi & Hibachi,Japanese Restaurant,34.06408,-84.726505,GA,0,0,0,1,0,0,0
+Hong Kong,Chinese Restaurant,34.20111034433581,-84.78819130333551,GA,0,1,0,0,0,0,0
 Hai Hai Japanese Steakhouse,Japanese Restaurant,33.8887760863649,-84.74304491471926,GA,0,0,0,1,0,0,0
 Panda Garden,Chinese Restaurant,33.91035664309632,-84.82227298508356,GA,0,1,0,0,0,0,0
 House of Lu,Chinese Restaurant,33.93501938333325,-84.7262700321798,GA,0,1,0,0,0,0,0
@@ -1249,9 +1249,9 @@ Umi Sushi,Japanese Restaurant,33.83960170353726,-84.38198905777692,GA,0,0,0,1,0,
 Bangkok Thai Restaurant,Thai Restaurant,33.79567682432947,-84.37083815973178,GA,0,0,0,0,0,1,0
 Top Spice,Thai Restaurant,33.79552090303348,-84.3691315331494,GA,0,0,0,0,0,1,0
 Gyu-Kaku,Japanese Restaurant,33.792901,-84.397064,GA,0,0,0,1,0,0,0
+Chai Yo,Thai Restaurant,33.839144,-84.381412,GA,0,0,0,0,0,1,0
 Kiku Japanese Steak House,Japanese Restaurant,33.83080095628297,-84.35639468229851,GA,0,0,0,1,0,0,0
 Grand China Restaurant,Chinese Restaurant,33.834112,-84.382852,GA,0,1,0,0,0,0,0
-Chai Yo,Thai Restaurant,33.839144,-84.381412,GA,0,0,0,0,0,1,0
 Doraku,Japanese Restaurant,33.83937436684568,-84.37901218899472,GA,0,0,0,1,0,0,0
 Starfish Sushi & Sake Bar,Japanese Restaurant,33.81593592096711,-84.39073762654986,GA,0,0,0,1,0,0,0
 Ru San's Midtown,Japanese Restaurant,33.795646,-84.368907,GA,0,0,0,1,0,0,0
@@ -1448,8 +1448,8 @@ Siam Square Thai Cuisine,Thai Restaurant,33.89830003367737,-84.49571578358686,GA
 Kuroshio Sushi Bar and Grille,Japanese Restaurant,33.886990754539646,-84.47534992746404,GA,0,0,0,1,0,0,0
 L'Thai West Organic Cuisine and Wine Bar,Thai Restaurant,33.843461115926324,-84.49035168089286,GA,0,0,0,0,0,1,0
 Maru Sushi,Japanese Restaurant,33.84590955277013,-84.50398424326974,GA,0,0,0,1,0,0,0
-Sushi Tong,Japanese Restaurant,33.8654382132041,-84.49238847015074,GA,0,0,0,1,0,0,0
 Panda Express,Chinese Restaurant,33.90082171627441,-84.47823319789373,GA,0,1,0,0,0,0,0
+Sushi Tong,Japanese Restaurant,33.8654382132041,-84.49238847015074,GA,0,0,0,1,0,0,0
 Yakitori Jinbei,Japanese Restaurant,33.89257429750035,-84.47714036940027,GA,0,0,0,1,0,0,0
 SUSHiNOBO,Japanese Restaurant,33.84419467443488,-84.4905034422723,GA,0,0,0,1,0,0,0
 I Love Sushi,Japanese Restaurant,33.90135996264088,-84.48733368473641,GA,0,0,0,1,0,0,0
@@ -1726,8 +1726,8 @@ China Star Restaurant,Chinese Restaurant,33.86658,-84.186388,GA,0,1,0,0,0,0,0
 Tin Tin Chinese,Chinese Restaurant,33.84555558391408,-84.201293762569,GA,0,1,0,0,0,0,0
 Golden Sun,Chinese Restaurant,33.85531995000905,-84.20829210633626,GA,0,1,0,0,0,0,0
 I Luv Pho,Vietnamese Restaurant,33.88474987892724,-84.19272929724448,GA,0,0,0,0,0,0,1
-Mamak Malaysian Kitchen,Asian Restaurant,33.89329727144494,-84.28478078961108,GA,1,0,0,0,0,0,0
 Snackboxe Bistro,Asian Restaurant,33.908812109154354,-84.28797131456041,GA,1,0,0,0,0,0,0
+Mamak Malaysian Kitchen,Asian Restaurant,33.89329727144494,-84.28478078961108,GA,1,0,0,0,0,0,0
 So Kong Dong,Asian Restaurant,33.89691364949903,-84.28239497528078,GA,1,0,0,0,0,0,0
 Bo Bo Garden Asian Cuisine,Asian Restaurant,33.89355195493394,-84.28308854257041,GA,1,0,0,0,0,0,0
 Ming's BBQ,Asian Restaurant,33.89302673690681,-84.28588285387349,GA,1,0,0,0,0,0,0
@@ -1735,8 +1735,8 @@ BBQ Corner II (金利來餐廳),Asian Restaurant,33.89259805897861,-84.284743987
 Man Chun Hong,Asian Restaurant,33.91309173516898,-84.26205375713373,GA,1,0,0,0,0,0,0
 LanZhouRamen,Japanese Restaurant,33.89489911565203,-84.28209041734026,GA,0,0,0,1,0,0,0
 Dim Sum Heaven,Asian Restaurant,33.895133,-84.281797,GA,1,0,0,0,0,0,0
-Northern China Eatery,Chinese Restaurant,33.89271284246601,-84.2837945544549,GA,0,1,0,0,0,0,0
 Yen Jing,Chinese Restaurant,33.89722750711233,-84.28158279717509,GA,0,1,0,0,0,0,0
+Northern China Eatery,Chinese Restaurant,33.89271284246601,-84.2837945544549,GA,0,1,0,0,0,0,0
 T 1 Bento & Grill,Chinese Restaurant,33.90808563976858,-84.28794949596045,GA,0,1,0,0,0,0,0
 Quoc Huong Banh Mi Fast Food,Vietnamese Restaurant,33.89291892360404,-84.28513759360604,GA,0,0,0,0,0,0,1
 Shoya Izakaya,Japanese Restaurant,33.90811736793895,-84.2866501747301,GA,0,0,0,1,0,0,0
@@ -1908,12 +1908,12 @@ Panda Express,Chinese Restaurant,33.999983617501684,-84.28376512238584,GA,0,1,0,
 Asian Kitchen,Asian Restaurant,34.004547867689716,-84.29407847341304,GA,1,0,0,0,0,0,0
 Thai Star,Thai Restaurant,33.96013392786879,-84.20872839237838,GA,0,0,0,0,0,1,0
 Thai Spice,Thai Restaurant,33.980206382492476,-84.21799754797428,GA,0,0,0,0,0,1,0
-SushiMito,Japanese Restaurant,33.96711846790691,-84.26058664343056,GA,0,0,0,1,0,0,0
 Sushi Uchi,Japanese Restaurant,33.985333121596895,-84.27064876878318,GA,0,0,0,1,0,0,0
-Happy Sumo – Norcross,Japanese Restaurant,33.95307141148778,-84.23492944493724,GA,0,0,0,1,0,0,0
+SushiMito,Japanese Restaurant,33.96711846790691,-84.26058664343056,GA,0,0,0,1,0,0,0
 Kampai,Japanese Restaurant,34.01855194963362,-84.19286247662495,GA,0,0,0,1,0,0,0
-The Pearl Chinese & Thai,Thai Restaurant,34.022653168192,-84.27060679806308,GA,0,0,0,0,0,1,0
+Happy Sumo – Norcross,Japanese Restaurant,33.95307141148778,-84.23492944493724,GA,0,0,0,1,0,0,0
 Wok N Roll,Chinese Restaurant,33.953090119053805,-84.23535221029711,GA,0,1,0,0,0,0,0
+The Pearl Chinese & Thai,Thai Restaurant,34.022653168192,-84.27060679806308,GA,0,0,0,0,0,1,0
 Lon U,Chinese Restaurant,33.98663879927626,-84.21229868471623,GA,0,1,0,0,0,0,0
 Aomi Japanese Steakhouse,Japanese Restaurant,33.98287069842443,-84.21616043217871,GA,0,0,0,1,0,0,0
 Kokos Sushi,Japanese Restaurant,34.02652732624809,-84.25152947118167,GA,0,0,0,1,0,0,0
@@ -2074,8 +2074,8 @@ Wok & Chopstick,Chinese Restaurant,34.11082747609097,-84.21946207631574,GA,0,1,0
 Saigon Cafe Alpharetta,Vietnamese Restaurant,34.089323,-84.264821,GA,0,0,0,0,0,0,1
 Panda Express,Chinese Restaurant,34.09126190780808,-84.27541601781864,GA,0,1,0,0,0,0,0
 Nahm Thai Cuisine,Thai Restaurant,34.08948709571083,-84.27205187595959,GA,0,0,0,0,0,1,0
-Dynasty Chinese Restaurant,Chinese Restaurant,34.0477156231682,-84.22080010327795,GA,0,1,0,0,0,0,0
 Chad Thai,Thai Restaurant,34.10257,-84.26985,GA,0,0,0,0,0,1,0
+Dynasty Chinese Restaurant,Chinese Restaurant,34.0477156231682,-84.22080010327795,GA,0,1,0,0,0,0,0
 Thai²,Thai Restaurant,34.08812893976457,-84.26610782633512,GA,0,0,0,0,0,1,0
 Kani House Japanese Steakhouse & Sushi Bar,Japanese Restaurant,34.04622902865971,-84.17709255839253,GA,0,0,0,1,0,0,0
 Super H Mart,Asian Restaurant,34.0453028351024,-84.17811705566825,GA,1,0,0,0,0,0,0
@@ -2125,8 +2125,8 @@ Mthai Street Food,Thai Restaurant,34.093351,-84.279763,GA,0,0,0,0,0,1,0
 Happy Thai Cuisine,Thai Restaurant,34.047849,-84.222251,GA,0,0,0,0,0,1,0
 M Thai Street Food,Thai Restaurant,34.09305,-84.279951,GA,0,0,0,0,0,1,0
 Paradise Biryani Pointe,Indo-Pak Restaurant,34.08942270633954,-84.27197050370975,GA,0,0,1,0,0,0,0
-Dee Thai,Thai Restaurant,34.04869118379767,-84.22248718701759,GA,0,0,0,0,0,1,0
 Cafe 101,Chinese Restaurant,34.07091057605268,-84.20508017510568,GA,0,1,0,0,0,0,0
+Dee Thai,Thai Restaurant,34.04869118379767,-84.22248718701759,GA,0,0,0,0,0,1,0
 Extreme Teriyaki Grill Express,Japanese Restaurant,34.064444,-84.251795,GA,0,0,0,1,0,0,0
 Katana Teppanyaki & Sushi,Japanese Restaurant,34.1277579889411,-84.2646397548201,GA,0,0,0,1,0,0,0
 Aomi Japanese restaurant,Japanese Restaurant,34.068655,-84.28138,GA,0,0,0,1,0,0,0
@@ -2254,9 +2254,9 @@ Dan Moo Ji,Asian Restaurant,33.95785361845068,-84.14097271584524,GA,1,0,0,0,0,0,
 Panda Express,Chinese Restaurant,33.95593298323567,-84.13183291248981,GA,0,1,0,0,0,0,0
 Ching Mei,Asian Restaurant,33.958221516302224,-84.14015039502773,GA,1,0,0,0,0,0,0
 Fung Mei,Chinese Restaurant,33.94390255916145,-84.12459250817416,GA,0,1,0,0,0,0,0
+Hibachi Buffet,Asian Restaurant,33.94872727340302,-84.13094021969783,Georgia,1,0,0,0,0,0,0
 Haru Ichiban,Japanese Restaurant,33.95689315794606,-84.13639922413105,GA,0,0,0,1,0,0,0
 East Pearl Seafood,Chinese Restaurant,33.94844164016813,-84.13160931432868,GA,0,1,0,0,0,0,0
-Hibachi Buffet,Asian Restaurant,33.94872727340302,-84.13094021969783,Georgia,1,0,0,0,0,0,0
 Fumi,Japanese Restaurant,33.95763521193114,-84.13143854989806,GA,0,0,0,1,0,0,0
 Jang Su Jang,Korean Restaurant,33.95704005333993,-84.13876309732005,GA,0,0,0,0,1,0,0
 Iron Age,Korean Restaurant,33.95417469742934,-84.13357853002559,GA,0,0,0,0,1,0,0
@@ -2283,7 +2283,6 @@ JM BBQ & Bar,Asian Restaurant,33.960246,-84.134089,GA,1,0,0,0,0,0,0
 Pho House,Vietnamese Restaurant,33.95725135866767,-84.13511544990756,Georgia,0,0,0,0,0,0,1
 Gogi House Korean BBQ,Korean Restaurant,33.95789865686565,-84.12795238216701,GA,0,0,0,0,1,0,0
 k factory bbq,Korean Restaurant,33.95085161036834,-84.14141669573362,GA,0,0,0,0,1,0,0
-Star Daepo Restaurant,Korean Restaurant,33.95982965000795,-84.13131621522973,GA,0,0,0,0,1,0,0
 Saigon Gourmet,Vietnamese Restaurant,33.959628568994745,-84.1362190246582,GA,0,0,0,0,0,0,1
 Chef Wong,Chinese Restaurant,33.960243,-84.131183,GA,0,1,0,0,0,0,0
 Zhang's Bbq Chicken,Chinese Restaurant,33.95213,-84.141396,GA,0,1,0,0,0,0,0
@@ -2292,6 +2291,7 @@ Caraway Cafe,Chinese Restaurant,33.95255,-84.14187,GA,0,1,0,0,0,0,0
 SATELITE FOOD MART,Chinese Restaurant,33.947362876803055,-84.14511498960941,GA,0,1,0,0,0,0,0
 Taste Of Tian Jin,Chinese Restaurant,33.951954,-84.1419,GA,0,1,0,0,0,0,0
 Cho Won Buffet,Korean Restaurant,33.95825523357213,-84.13668954096488,GA,0,0,0,0,1,0,0
+Star Daepo Restaurant,Korean Restaurant,33.95982965000795,-84.13131621522973,GA,0,0,0,0,1,0,0
 Royal China,Chinese Restaurant,33.948345,-84.14164,GA,0,1,0,0,0,0,0
 Sun & Moon Cafe,Korean Restaurant,33.95642986739736,-84.13144270562286,GA,0,0,0,0,1,0,0
 Tepanyaki Japanese,Japanese Restaurant,33.960695166133256,-84.12475150778972,GA,0,0,0,1,0,0,0
@@ -2818,8 +2818,8 @@ Toki Japanese Steakhouse & Sushi,Japanese Restaurant,33.525684089986825,-82.0726
 Toki Hibachi & Sushi,Japanese Restaurant,33.54713573739079,-82.14954212889306,GA,0,0,0,1,0,0,0
 Kyoto Japanese Restaurant,Japanese Restaurant,33.49625534972095,-82.137949349382,GA,0,0,0,1,0,0,0
 Hokkaido,Japanese Restaurant,33.5446766982079,-82.14436824055232,GA,0,0,0,1,0,0,0
-Panda Express,Chinese Restaurant,33.48742018763362,-82.0810985438508,GA,0,1,0,0,0,0,0
 Miyabi Jr Express,Japanese Restaurant,33.541013013853174,-82.13164024391232,GA,0,0,0,1,0,0,0
+Panda Express,Chinese Restaurant,33.48742018763362,-82.0810985438508,GA,0,1,0,0,0,0,0
 Great Wall,Chinese Restaurant,33.53639617341414,-82.08026493697268,GA,0,1,0,0,0,0,0
 New Ming Wah,Chinese Restaurant,33.46843176659274,-82.07679660886672,GA,0,1,0,0,0,0,0
 Formosa's II,Chinese Restaurant,33.5111818692358,-82.08586336104119,GA,0,1,0,0,0,0,0
@@ -3103,8 +3103,8 @@ Mirch Masala,Indo-Pak Restaurant,33.79823765476688,-84.28128750782986,GA,0,0,1,0
 Copper Cove Indian Bistro,Indo-Pak Restaurant,33.83658507306954,-84.37764207428746,GA,0,0,1,0,0,0,0
 Thali Vegetarian Indian,Indo-Pak Restaurant,33.79791647697701,-84.28122475194439,GA,0,0,1,0,0,0,0
 Jai Ho Indian Kitchen & Bar,Indo-Pak Restaurant,33.792343,-84.3694,GA,0,0,1,0,0,0,0
-Tava Indian Bistro,Indo-Pak Restaurant,33.79690603897823,-84.28178659359772,GA,0,0,1,0,0,0,0
 Luqma Indo-Pak Restaurant,Indo-Pak Restaurant,33.797457129611075,-84.28263754802852,GA,0,0,1,0,0,0,0
+Tava Indian Bistro,Indo-Pak Restaurant,33.79690603897823,-84.28178659359772,GA,0,0,1,0,0,0,0
 Kathmandu Kitchen & Grill,Indo-Pak Restaurant,33.81091802951088,-84.24208558723535,GA,0,0,1,0,0,0,0
 Vin Vie Bistro,Indo-Pak Restaurant,33.816775112964365,-84.38960345930133,GA,0,0,1,0,0,0,0
 Honest,Indo-Pak Restaurant,33.797322717447,-84.28119520612167,GA,0,0,1,0,0,0,0
@@ -3280,9 +3280,9 @@ Naan n Curry,Indo-Pak Restaurant,33.957946097667154,-84.11176440914576,GA,0,0,1,
 Kabab Hut,Indo-Pak Restaurant,33.904970284977495,-84.1542348313618,GA,0,0,1,0,0,0,0
 Udipi Cafe - Duluth,Indo-Pak Restaurant,34.01524839975559,-84.16402500588816,GA,0,0,1,0,0,0,0
 Cafe Bahar Biryani and Grill,Indo-Pak Restaurant,34.0708628,-84.16503879999999,GA,0,0,1,0,0,0,0
-Kerala Kitchen,Indo-Pak Restaurant,33.902691026920174,-84.00522867426325,GA,0,0,1,0,0,0,0
-Currylicious,Indo-Pak Restaurant,33.97505595256451,-84.09319606601925,GA,0,0,1,0,0,0,0
 Bukharaa Indian Restaurant,Indo-Pak Restaurant,34.06925145903619,-84.16669078719903,GA,0,0,1,0,0,0,0
+Currylicious,Indo-Pak Restaurant,33.97505595256451,-84.09319606601925,GA,0,0,1,0,0,0,0
+Kerala Kitchen,Indo-Pak Restaurant,33.902691026920174,-84.00522867426325,GA,0,0,1,0,0,0,0
 Moksha Kitchen,Indo-Pak Restaurant,34.016017522868516,-84.16328854588552,GA,0,0,1,0,0,0,0
 Chinese Dhaba,Chinese Restaurant,33.95745456212511,-84.11201678772667,GA,0,1,0,0,0,0,0
 Poona Indian Restaurant,Indo-Pak Restaurant,33.942279681919025,-84.12545509618268,GA,0,0,1,0,0,0,0
@@ -3290,7 +3290,6 @@ BAPS Shayona,Indo-Pak Restaurant,33.88547985355456,-84.16471472282126,GA,0,0,1,0
 Shahi Bazaar,Indo-Pak Restaurant,33.88814185129754,-84.06190661356659,GA,0,0,1,0,0,0,0
 Asma's Cuisine,Indo-Pak Restaurant,33.956958072799175,-84.11265647258762,GA,0,0,1,0,0,0,0
 Myzenes,Indo-Pak Restaurant,34.077568,-84.162235,GA,0,0,1,0,0,0,0
-Carrabba's Italian Grill,Indo-Pak Restaurant,34.153418942196076,-84.17493680551861,GA,0,0,1,0,0,0,0
 Spice On Flame,Indo-Pak Restaurant,34.00692161142623,-84.17192459106445,GA,0,0,1,0,0,0,0
 Rajbhog Cafe,Indo-Pak Restaurant,33.94343260545558,-84.12242161771853,Georgia,0,0,1,0,0,0,0
 Little India Express Cafe,Indo-Pak Restaurant,34.060985134703955,-83.98811036092116,GA,0,0,1,0,0,0,0
@@ -3320,7 +3319,6 @@ BAPS Shayona Premvati ATL,Indo-Pak Restaurant,33.885477,-84.16474,GA,0,0,1,0,0,0
 Chopstixs,Indo-Pak Restaurant,33.95695887711157,-84.11031961441039,GA,0,0,1,0,0,0,0
 Tikka Indian Grill,Indo-Pak Restaurant,34.0220305,-84.1493671,GA,0,0,1,0,0,0,0
 Pk Tunn Lounge Bar and Grill,Indo-Pak Restaurant,34.032595649173345,-84.04994654655457,GA,0,0,1,0,0,0,0
-Rice & Pie,Indo-Pak Restaurant,33.983069,-84.17094,GA,0,0,1,0,0,0,0
 Spice Garden,Indo-Pak Restaurant,34.022615,-84.149599,GA,0,0,1,0,0,0,0
 Gokul Sweets,Indo-Pak Restaurant,34.02080790607742,-84.16229871138776,GA,0,0,1,0,0,0,0
 Chaat Ka Chaska,Indo-Pak Restaurant,33.882675,-84.163703,GA,0,0,1,0,0,0,0
