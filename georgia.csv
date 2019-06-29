@@ -14,14 +14,14 @@ Yummi Express,Japanese Restaurant,30.85645181319163,-83.95245349026321,GA
 Masato Express,Japanese Restaurant,30.851591219630993,-83.94912938521641,GA
 Mosato's,Japanese Restaurant,30.851486206054688,-83.9488296508789,GA
 Osaka Hibachi & Sushi,Japanese Restaurant,30.83805006004257,-83.9463688166637,GA
-Mori Japanese Steakhouse,Asian Restaurant,30.840985238252618,-83.31828753982037,GA
-Beijing Cafe,Asian Restaurant,30.841600659569156,-83.31798184343978,GA
+Mori Japanese Steakhouse,Japanese Restaurant,30.840985238252618,-83.31828753982037,GA
+Beijing Cafe,Chinese Restaurant,30.841600659569156,-83.31798184343978,GA
 Great Wall Chinese Restaurant,Chinese Restaurant,30.870550842017217,-83.28915347402364,GA
 Thai Chang,Thai Restaurant,30.972441499532827,-83.21456155884893,GA
 Hibachi Express,Japanese Restaurant,30.85323561990341,-83.28023794338453,GA
 Hunan House,Asian Restaurant,30.84656974368454,-83.31675226259182,GA
 Cup Works,Asian Restaurant,30.906316,-83.263212,GA
-Wild Wok,Asian Restaurant,30.84677945893064,-83.30376398842422,GA
+Wild Wok,Chinese Restaurant,30.84677945893064,-83.30376398842422,GA
 Lin's Hibachi,Asian Restaurant,30.68165104766041,-83.21837949718702,GA
 Royal Buffet,Asian Restaurant,30.881044365249117,-83.28859806060791,GA
 ichiban japanese steak house,Japanese Restaurant,30.873132848802733,-83.29040566829251,GA
@@ -46,19 +46,19 @@ Chens China,Chinese Restaurant,31.032181,-82.744557,GA
 Tuptim Thai,Thai Restaurant,30.831514578629704,-82.00682419447108,GA
 Thai Smile,Thai Restaurant,30.83171,-82.006751,GA
 Osaka Steak House,Japanese Restaurant,30.78412903118832,-81.61002589933094,GA
-Saigon Tokyo,Asian Restaurant,30.754263002506143,-81.57655768149931,GA
+Saigon Tokyo,Vietnamese Restaurant,30.754263002506143,-81.57655768149931,GA
 Raidas Asian Cafe,Asian Restaurant,30.7815468,-81.63094455,GA
 Wasabi Sushi,Japanese Restaurant,30.777080070042423,-81.61984890494949,GA
 China King,Chinese Restaurant,30.78550518265111,-81.64931396322046,GA
 China Wok,Chinese Restaurant,30.78415,-81.634804,GA
 Pat Thai,Thai Restaurant,30.750351529450842,-81.57757508528279,GA
 Bonzai,Japanese Restaurant,30.78924051,-81.64998,GA
-Hong Kong Buffet,Asian Restaurant,31.17226783934452,-84.73411459561504,GA
+Hong Kong Buffet,Chinese Restaurant,31.17226783934452,-84.73411459561504,GA
 Guang Zhou,Chinese Restaurant,31.614916036396643,-84.20743500698566,GA
 House Of China II,Chinese Restaurant,31.61116697661515,-84.2136031932798,GA
 Rice Bowl,Asian Restaurant,31.631193294697734,-84.17522966975906,GA
 Hong Kong Café,Chinese Restaurant,31.618581538871876,-84.22381796283035,GA
-Mikata Japanese Steakhouse & Sushi Bar,Asian Restaurant,31.614170947503794,-84.21908591211329,GA
+Mikata Japanese Steakhouse & Sushi Bar,Japanese Restaurant,31.614170947503794,-84.21908591211329,GA
 Crazy Buffet,Chinese Restaurant,31.577133400543982,-84.08898023591355,GA
 Tokyo,Japanese Restaurant,31.619798895814785,-84.225474280144,GA
 Hibachi Express,Japanese Restaurant,31.6110573347813,-84.2237240676649,GA
@@ -66,8 +66,8 @@ Tokyo Sushi & Hibachi,Japanese Restaurant,31.619568843130658,-84.22534271270119,
 Cup O Rice N Wings,Asian Restaurant,31.599965,-84.175963,GA
 Kings Deli,Asian Restaurant,31.57765301377062,-84.176453812499,GA
 Hibachi Grill Buffet,Asian Restaurant,31.612246795543467,-84.21506981523406,GA
-Great Wall,Asian Restaurant,31.61256793367673,-84.21849754792221,GA
-China Shuttle,Asian Restaurant,31.617504904236373,-84.2168797191318,GA
+Great Wall,Chinese Restaurant,31.61256793367673,-84.21849754792221,GA
+China Shuttle,Chinese Restaurant,31.617504904236373,-84.2168797191318,GA
 Shogun,Japanese Restaurant,31.612362575103585,-84.22443490227322,GA
 No. 1 Chinese,Chinese Restaurant,31.774157753380045,-84.44685213630802,GA
 Red Wok,Chinese Restaurant,31.56217785804277,-84.17676905490602,GA
@@ -81,17 +81,17 @@ China Garden,Chinese Restaurant,31.607274057013342,-84.1754248743482,GA
 Hibachi Express,Japanese Restaurant,31.674468,-84.137158,GA
 Hibachi Express,Japanese Restaurant,31.629815325397928,-84.17749258125322,GA
 Japan Express,Japanese Restaurant,31.552038,-84.161157,GA
-Panda,Japanese Restaurant,31.612944,-84.220691,GA
+Panda,Chinese Restaurant,31.612944,-84.220691,GA
 Tokoyo Japanese Steak House And Sushi Bar,Japanese Restaurant,31.619754,-84.225362,GA
 Ichiban Grill,Japanese Restaurant,31.186021,-83.759838,GA
 Viėt Phô,Vietnamese Restaurant,31.615552,-84.223478,GA
 Asahi Express,Japanese Restaurant,31.457587299363478,-83.52640583660497,GA
 saigon kitchen,Thai Restaurant,31.45745086669922,-83.52174377441406,GA
 Coconut Asian Bistro,Asian Restaurant,31.457369,-83.521851,GA
-Kobe,Asian Restaurant,31.498734,-82.851244,GA
+Kobe,Japanese Restaurant,31.498734,-82.851244,GA
 Main Garden,Asian Restaurant,31.701265663897168,-83.24935924016057,GA
 King Buffet,Asian Restaurant,31.45282,-83.52723,GA
-Tokyo Express,Asian Restaurant,31.514446176048253,-82.85044504774919,GA
+Tokyo Express,Japanese Restaurant,31.514446176048253,-82.85044504774919,GA
 China Garden,Chinese Restaurant,31.2065756,-83.2492946,GA
 Lin's Garden,Chinese Restaurant,31.44510092156143,-83.54347791858177,Georgia
 New China Buffet,Chinese Restaurant,31.4711878291282,-83.50300860225704,GA
@@ -135,7 +135,7 @@ Oishii,Japanese Restaurant,31.592521,-81.871195,Georgia
 Kobe Hibachi & Sushi,Japanese Restaurant,31.785211,-82.362718,GA
 Kyoto Express,Asian Restaurant,31.21361924476782,-81.48238242423183,GA
 Golden Hibachi Buffet,Chinese Restaurant,31.838536156284025,-81.59644841869489,GA
-Panda Express,Asian Restaurant,31.822362,-81.59995,GA
+Panda Express,Chinese Restaurant,31.822362,-81.59995,GA
 Basil Thai,Thai Restaurant,31.147584,-81.494951,GA
 Fancy Q Sushi Bar & Grill,Japanese Restaurant,31.162380854696035,-81.38897006706945,GA
 Fancy Q,Japanese Restaurant,31.19388679315297,-81.47977440834259,GA
@@ -143,16 +143,16 @@ Seasons Of Japan,Japanese Restaurant,31.202949398958967,-81.48222923827352,GA
 Tip Tum Thai,Thai Restaurant,31.22666833526042,-81.52735241170689,GA
 Orient Express,Chinese Restaurant,31.84124210842649,-81.60158179939276,GA
 Kobe Japanese Steakhouse,Japanese Restaurant,31.85423157489538,-81.57741380724806,GA
-China Restaurant,Asian Restaurant,31.852287949997486,-81.58001144340825,GA
-China One,Asian Restaurant,31.2134999610978,-81.48100074143443,Georgia
+China Restaurant,Chinese Restaurant,31.852287949997486,-81.58001144340825,GA
+China One,Chinese Restaurant,31.2134999610978,-81.48100074143443,Georgia
 First Asia Express,Asian Restaurant,31.845719365844317,-81.60228252410889,GA
 Asian Taste Lee,Asian Restaurant,31.22646244793565,-81.52706306266212,GA
-New Hong Kong,Asian Restaurant,31.19309425354004,-81.4856185913086,GA
-Wok N Roll,Asian Restaurant,31.85348566,-81.60594,GA
-Panda Express,Asian Restaurant,31.235073,-81.49978,GA
-China Super Buffet,Asian Restaurant,31.851426845407197,-81.58396834838193,GA
+New Hong Kong,Chinese Restaurant,31.19309425354004,-81.4856185913086,GA
+Wok N Roll,Chinese Restaurant,31.85348566,-81.60594,GA
+Panda Express,Chinese Restaurant,31.235073,-81.49978,GA
+China Super Buffet,Chinese Restaurant,31.851426845407197,-81.58396834838193,GA
 Pho #1,Vietnamese Restaurant,31.208901195774573,-81.4822493659415,GA
-Wok N Roll,Asian Restaurant,31.16591975233193,-81.49297714233398,GA
+Wok N Roll,Chinese Restaurant,31.16591975233193,-81.49297714233398,GA
 Seoul Restaurant,Korean Restaurant,31.827214,-81.619263170363,GA
 Kyoto Japanese Steakhouse,Japanese Restaurant,31.845428352273093,-81.5934258501408,GA
 City Buffet,Chinese Restaurant,31.21654073937155,-81.48973307073759,Georgia
@@ -182,11 +182,11 @@ Sumo,Japanese Restaurant,31.21494,-81.4861,GA
 Saigon Pho,Vietnamese Restaurant,31.22396416177871,-81.47747687226453,GA
 Hwang Keum Jung Korean Restaraunt,Korean Restaurant,31.195123,-81.482517,GA
 Korean Kari Out,Korean Restaurant,31.840617,-81.59759,GA
-Chef Lee's Peking Restaurant,Asian Restaurant,32.53173418655664,-84.96421109441076,GA
-Mikata Japanese Steakhouse & Sushi Bar,Asian Restaurant,32.5173934,-84.9556952,GA
-Sarku Japan,Asian Restaurant,32.50846662793784,-84.9435029337723,GA
-Uptown Vietnam Cuisine,Asian Restaurant,32.47037183788633,-84.992943707113,GA
-Ok Sun Korean Restaurant,Asian Restaurant,32.55980525195635,-84.94754217472831,GA
+Chef Lee's Peking Restaurant,Chinese Restaurant,32.53173418655664,-84.96421109441076,GA
+Mikata Japanese Steakhouse & Sushi Bar,Japanese Restaurant,32.5173934,-84.9556952,GA
+Sarku Japan,Japanese Restaurant,32.50846662793784,-84.9435029337723,GA
+Uptown Vietnam Cuisine,Vietnamese Restaurant,32.47037183788633,-84.992943707113,GA
+Ok Sun Korean Restaurant,Korean Restaurant,32.55980525195635,-84.94754217472831,GA
 Hibachi Grill Supreme Buffet,Asian Restaurant,32.482021281031166,-84.9446959457488,GA
 Mandarin Cafe,Chinese Restaurant,32.53240230101492,-84.95445942249611,GA
 Chili Thai,Thai Restaurant,32.46494281755456,-84.99418267415837,GA
@@ -194,7 +194,7 @@ Thai House,Thai Restaurant,32.5234792,-84.958715,GA
 New China,Chinese Restaurant,32.5383719813171,-84.9555759792113,GA
 Fuji Japanese Steakhouse,Japanese Restaurant,32.53864534473995,-84.95590570959652,GA
 Panda Garden,Chinese Restaurant,32.52092208116921,-84.88915281178427,GA
-Wasabi Sushi & Thai,Japanese Restaurant,32.53402955964205,-84.96695662812375,GA
+Wasabi Sushi & Thai,Thai Restaurant,32.53402955964205,-84.96695662812375,GA
 New China Express (Dolla Scoop),Chinese Restaurant,32.53650177259679,-84.87831737793266,GA
 Samurai Japanese Cuisine and Sushi Bar,Japanese Restaurant,32.46527096654288,-84.99335577026281,GA
 Lin China,Chinese Restaurant,32.55731536444457,-84.90522915618465,GA
@@ -210,16 +210,16 @@ Koreana,Korean Restaurant,32.52860814599206,-84.92465653964963,GA
 Shogun Japanese Steak House,Japanese Restaurant,32.50672524944768,-84.9652210727203,GA
 chef changs asian grill,Asian Restaurant,32.536750075493785,-84.8702903459799,Georgia
 Main PX Manchu WOK,Asian Restaurant,32.37568509409677,-84.92349525239193,Georgia
-China Express,Asian Restaurant,32.50710284606957,-84.95809342523671,GA
-#1 Chinese Restaurant,Asian Restaurant,32.41634745,-84.941703,GA
-Great Wall,Asian Restaurant,32.52278937365838,-84.94800567626953,GA
+China Express,Chinese Restaurant,32.50710284606957,-84.95809342523671,GA
+#1 Chinese Restaurant,Chinese Restaurant,32.41634745,-84.941703,GA
+Great Wall,Chinese Restaurant,32.52278937365838,-84.94800567626953,GA
 Hungry,Asian Restaurant,32.5363448241917,-84.87751450433556,GA
-Lee' Golden China,Asian Restaurant,32.470375,-84.9865574,GA
+Lee' Golden China,Chinese Restaurant,32.470375,-84.9865574,GA
 Hibachi Express,Asian Restaurant,32.53900122927786,-84.8743646753293,GA
 Just Thai,Thai Restaurant,32.514627872814955,-84.98451439186263,GA
 Hibachi Express,Japanese Restaurant,32.532491683409006,-84.96384586178063,GA
 China Kitchen,Chinese Restaurant,32.482234,-84.896988,GA
-Teriyaki ToGo,Chinese Restaurant,32.53684852219128,-84.87011543617932,GA
+Teriyaki ToGo,Japanese Restaurant,32.53684852219128,-84.87011543617932,GA
 Sunny's Deli,Chinese Restaurant,32.428125,-84.939985,GA
 China Star,Chinese Restaurant,32.50770921408763,-84.93304874442742,GA
 New Garden Chinese Restaurant,Chinese Restaurant,32.489448802574614,-84.971622959596,GA
@@ -269,7 +269,7 @@ Pho'Viet,Vietnamese Restaurant,32.51699026593083,-84.95533428084214,GA
 Seoul Korean Restaurant,Korean Restaurant,32.4166389075091,-84.95160439354018,GA
 Mongo Grill,Asian Restaurant,32.56101323073191,-84.9381329881079,GA
 Yummy Express,Asian Restaurant,32.466454,-83.740906,GA
-New China #8,Asian Restaurant,32.654574439643426,-83.75190180731856,GA
+New China #8,Chinese Restaurant,32.654574439643426,-83.75190180731856,GA
 Zen Steakhouse & Sushi Bar,Japanese Restaurant,32.61599263734966,-83.70271750080353,GA
 Hibachi Buffet,Japanese Restaurant,32.46872249211038,-83.74004528322685,GA
 New China Buffet,Chinese Restaurant,31.96261462511323,-83.76280200088193,GA
@@ -290,7 +290,7 @@ Hachi Sushi and Japanese Grill,Japanese Restaurant,31.961484,-83.752854,GA
 Hibachi Express,Japanese Restaurant,32.07191766882768,-84.2108138865292,GA
 Ichiban,Japanese Restaurant,32.621424,-83.709094,Georgia
 Sumo,Japanese Restaurant,31.961258,-83.759125,GA
-Saigon Noodle House,Asian Restaurant,32.567459827436316,-83.59370312050329,GA
+Saigon Noodle House,Vietnamese Restaurant,32.567459827436316,-83.59370312050329,GA
 Hibachi Buffet Grill and Sushi,Asian Restaurant,32.61606360203909,-83.69695687120404,GA
 Anna's Asian Cafe,Asian Restaurant,32.552346911168364,-83.69364922383741,GA
 Stir King,Chinese Restaurant,32.61679368352325,-83.68487476452675,GA
@@ -304,14 +304,14 @@ Dai-Ichi,Japanese Restaurant,32.59358737602814,-83.63460511301668,GA
 Ichiban Japanese Steakhouse,Japanese Restaurant,32.61639415617993,-83.69233408856651,GA
 Genji Japanese Steakhouse,Japanese Restaurant,32.61665734516998,-83.68287740622596,GA
 Choi's Korean Restaurant,Korean Restaurant,32.619388839904595,-83.61251403890675,GA
-Sushi Thai,Japanese Restaurant,32.61931420446358,-83.66861020824216,GA
+Sushi Thai,Thai Restaurant,32.61931420446358,-83.66861020824216,GA
 Teppanyaki,Asian Restaurant,32.542620711369366,-82.95617612858973,GA
 Little Tokyo Japanese Steakhouse,Japanese Restaurant,32.54513877061776,-82.93664069219784,GA
-Wok N Roll,Asian Restaurant,32.55570925525394,-83.66165705379208,GA
+Wok N Roll,Chinese Restaurant,32.55570925525394,-83.66165705379208,GA
 Moon's Wings & Seafood,Asian Restaurant,32.63060512655632,-83.64292312287202,GA
-Top China,Asian Restaurant,32.547071802071514,-83.69301661544904,GA
+Top China,Chinese Restaurant,32.547071802071514,-83.69301661544904,GA
 Asian House,Asian Restaurant,32.618865211426986,-83.61798800220103,GA
-Genji Japanese Steak & Seafood,Asian Restaurant,32.55674513917244,-83.66324116528463,GA
+Genji Japanese Steak & Seafood,Japanese Restaurant,32.55674513917244,-83.66324116528463,GA
 Hibachi Express,Asian Restaurant,32.55015353560765,-83.69052010693083,GA
 Malaya,Asian Restaurant,32.61877977546745,-83.635848343181,GA
 Yami Yami,Chinese Restaurant,32.553159,-83.6584,GA
@@ -350,7 +350,7 @@ Main Moon Chinese Restaurant,Chinese Restaurant,32.167049,-81.903366,GA
 Shogun Express,Japanese Restaurant,32.383398,-82.061091,GA
 Natsu Japanese Steak and Seafood,Japanese Restaurant,32.203872,-82.343562,GA
 Osaka,Japanese Restaurant,32.216111,-82.409092,GA
-Fuji's,Asian Restaurant,31.93307628789844,-81.32522567903467,GA
+Fuji's,Japanese Restaurant,31.93307628789844,-81.32522567903467,GA
 Mr. Sze Chinese Restaurant,Chinese Restaurant,32.14549386165899,-81.33878922841593,GA
 China #1,Chinese Restaurant,32.13609890802662,-81.62211844257455,Georgia
 Smoke House Southern Grill,Chinese Restaurant,31.929893,-81.327862,GA
@@ -360,8 +360,8 @@ Asia,Asian Restaurant,31.90907055635867,-81.27819238717832,GA
 China Taste,Chinese Restaurant,31.986144589992882,-81.21998786751622,GA
 Shogun,Japanese Restaurant,31.952614816848524,-81.31272790999972,GA
 Sakura Place,Japanese Restaurant,31.983963833617572,-81.22288573411008,GA
-Happy Wok,Asian Restaurant,31.953393021315897,-81.31359746295468,GA
-Beijing House,Asian Restaurant,31.946224,-81.31029,GA
+Happy Wok,Chinese Restaurant,31.953393021315897,-81.31359746295468,GA
+Beijing House,Chinese Restaurant,31.946224,-81.31029,GA
 China Wok,Chinese Restaurant,31.986696700731038,-81.21523322587562,GA
 Shinto,Japanese Restaurant,31.94695088,-81.31261467933655,Georgia
 Sumo,Japanese Restaurant,31.946287,-81.310221,GA
@@ -371,7 +371,7 @@ Sakura Japanese Restaurant,Japanese Restaurant,31.994925541230593,-81.1056161997
 Asia Restaurant,Asian Restaurant,31.987237534712804,-81.15832700522147,GA
 hahot mongolian grill,Asian Restaurant,32.00167545639499,-81.1130154132843,GA
 Tropical Chicken,Asian Restaurant,31.98098815723199,-81.14970100931146,GA
-China Garden,Asian Restaurant,31.98032184131748,-81.14889866772522,GA
+China Garden,Chinese Restaurant,31.98032184131748,-81.14889866772522,GA
 Hirano's Southside,Asian Restaurant,31.981994726933003,-81.16585070194517,GA
 Kimchi II Korean Restaurant,Korean Restaurant,31.997281007513457,-81.11929181358,GA
 New Mandarin Wak,Chinese Restaurant,31.953123092651367,-81.0870590209961,GA
@@ -384,7 +384,7 @@ Ha Hot Mongolian Grill,Asian Restaurant,32.00190177205707,-81.11293448599864,GA
 Famous Asian,Asian Restaurant,32.064663591249676,-81.20492449138128,GA
 Wasabi Fusion,Asian Restaurant,32.09890103599321,-81.27052281943666,GA
 Seasons Of Japan Express,Japanese Restaurant,32.02670654444354,-81.22787619132555,GA
-Seasons Of Japan Brick Blvd,Asian Restaurant,32.02654155705411,-81.22784920322664,GA
+Seasons Of Japan Brick Blvd,Japanese Restaurant,32.02654155705411,-81.22784920322664,GA
 Green Tea,Chinese Restaurant,32.025845085312426,-81.2263731083561,GA
 Mei Jia,Chinese Restaurant,32.09758801352929,-81.27062418538625,GA
 happy china III,Chinese Restaurant,32.01495675363484,-81.23387388992036,GA
@@ -393,10 +393,10 @@ Sakura Japanese Restaurant,Japanese Restaurant,32.02790409183024,-81.22496579417
 The Vault Kitchen + Market,Asian Restaurant,32.05633967982192,-81.10046055574304,GA
 Flying Monk Noodle Bar,Asian Restaurant,32.07899308831706,-81.09229095544181,GA
 Fire Street Food,Asian Restaurant,32.07531601501629,-81.09268342112527,GA
-Ta Ca Sushi & Japanese Fusion,Asian Restaurant,32.075085131642616,-81.0870864147198,GA
+Ta Ca Sushi & Japanese Fusion,Japanese Restaurant,32.075085131642616,-81.0870864147198,GA
 Skylers,Asian Restaurant,32.07996656567322,-81.08800642843276,GA
-Sakura Buffet,Asian Restaurant,32.009860022074726,-81.11057385607863,GA
-Seasons of Japan,Asian Restaurant,32.007313464733585,-81.11151645874364,GA
+Sakura Buffet,Japanese Restaurant,32.009860022074726,-81.11057385607863,GA
+Seasons of Japan,Japanese Restaurant,32.007313464733585,-81.11151645874364,GA
 The Noodle Bowl,Asian Restaurant,32.00990387531446,-81.10864963883397,GA
 King and I,Asian Restaurant,32.008880784299556,-81.10898965618718,GA
 Savannah Filipino Authentic Cuisine,Asian Restaurant,32.026650331171815,-81.0941368563282,GA
@@ -418,7 +418,7 @@ Mandarin Express,Chinese Restaurant,32.00240707397461,-81.11768341064453,GA
 Ta Bien Seafood,Asian Restaurant,32.007332,-81.100354,GA
 Asian Fusion,Asian Restaurant,32.078749,-81.091661,GA
 Aroy-Jung Asian Fusion & Sushi Bar,Asian Restaurant,32.07875495727021,-81.09166342741048,GA
-Chinatown,Asian Restaurant,32.09628782922118,-81.14444457921576,GA
+Chinatown,Chinese Restaurant,32.09628782922118,-81.14444457921576,GA
 Asian River,Asian Restaurant,32.004221,-81.112289,GA
 Hibachi Buffet,Asian Restaurant,32.01617768,-81.11426071999999,GA
 Kanpai,Japanese Restaurant,32.06613721243846,-81.16059117069086,GA
@@ -464,7 +464,7 @@ China Taste,Chinese Restaurant,32.01913899668867,-81.07351682764701,GA
 Chiriya's Thai,Thai Restaurant,32.03620348424938,-81.05616275558666,GA
 Yummy House,Chinese Restaurant,32.04214193575858,-81.008665230014,GA
 Kanpai,Japanese Restaurant,32.01638709911843,-80.98738934355495,GA
-Delicious Teriyaki Express,Asian Restaurant,32.03915768052018,-81.06732373995567,GA
+Delicious Teriyaki Express,Japanese Restaurant,32.03915768052018,-81.06732373995567,GA
 Top's China,Chinese Restaurant,32.02848340398206,-81.07088138455266,GA
 Chef Wan,Chinese Restaurant,32.01576200611731,-80.98021908487286,GA
 Happy China II,Chinese Restaurant,32.06491230642119,-81.05811084709059,GA
@@ -491,18 +491,18 @@ Happy Wok,Chinese Restaurant,32.20028556056726,-81.19510666568844,GA
 New Super Buffet,Chinese Restaurant,32.12280307138833,-81.26398361989102,GA
 Sushi Hana,Japanese Restaurant,32.142483124499066,-81.24867290413003,GA
 Yummy House,Chinese Restaurant,32.13355175586107,-81.25403660937967,GA
-Tomo Japanese Restarant,Asian Restaurant,32.26863563617816,-81.22531546704424,GA
+Tomo Japanese Restarant,Japanese Restaurant,32.26863563617816,-81.22531546704424,GA
 Sapporo,Japanese Restaurant,32.146248693800395,-81.25043935570507,GA
-Hong Kong Buffet,Asian Restaurant,32.26377013183082,-81.22008634772088,GA
+Hong Kong Buffet,Chinese Restaurant,32.26377013183082,-81.22008634772088,GA
 Miwa Japanese Restaurant,Japanese Restaurant,32.14410334514098,-81.24839995590843,GA
 Asian Taste,Asian Restaurant,32.276463,-81.23148,GA
-Peking Gourmet,Asian Restaurant,32.10872136212789,-81.23344894973678,GA
+Peking Gourmet,Chinese Restaurant,32.10872136212789,-81.23344894973678,GA
 Rice Hope,Asian Restaurant,32.212135622669585,-81.18021095264992,GA
 China Delight,Chinese Restaurant,32.275837489556785,-81.22744843725977,GA
 HOP XING CHINESE RESTAURANT EAT IN & TAKE OUT,Chinese Restaurant,32.10351168674888,-81.1471754900696,GA
 China House,Chinese Restaurant,32.14831254141167,-81.16330186397157,GA
 Hop Xing,Chinese Restaurant,32.10367633092971,-81.14608232948058,GA
-Phoenix Chinese Restaurant,Chinese Restaurant,32.13057435891145,-81.2933316690509,GA
+Phoenix Chinese Restaurant,Vietnamese Restaurant,32.13057435891145,-81.2933316690509,GA
 New China Chinese Food,Chinese Restaurant,32.11460748231132,-81.24876145734564,GA
 No 1 Chinese Restaurant,Chinese Restaurant,32.110813,-81.23375,GA
 Seasons Of Japan,Japanese Restaurant,32.13583333267564,-81.25126310684524,GA
@@ -513,18 +513,18 @@ Hanami,Japanese Restaurant,32.221153,-81.194,GA
 Okayama Japanese Restaurant,Japanese Restaurant,32.10619356066435,-81.22910259191283,GA
 Kobe Sushi & Hibachi,Japanese Restaurant,32.277725,-81.228607,GA
 Orchid,Asian Restaurant,32.41097120700106,-81.7663122043896,GA
-Seasons of Japan,Asian Restaurant,32.43892889032516,-81.76033457972662,GA
-Coconut Thai Cuisine,Asian Restaurant,32.43420699804168,-81.77995916636063,GA
-Panda Express,Asian Restaurant,32.412303,-81.767183,GA
+Seasons of Japan,Japanese Restaurant,32.43892889032516,-81.76033457972662,GA
+Coconut Thai Cuisine,Thai Restaurant,32.43420699804168,-81.77995916636063,GA
+Panda Express,Chinese Restaurant,32.412303,-81.767183,GA
 Chow Time Buffet,Chinese Restaurant,32.44138724975718,-81.76549495286486,GA
 Southern Palace,Chinese Restaurant,32.43491284373191,-81.76849623151595,GA
 Tokyo Japanese,Japanese Restaurant,32.412771870054286,-81.76820525413542,GA
 Chinese Kitchen,Chinese Restaurant,32.43394353863652,-81.78457460906206,GA
 Shogun,Japanese Restaurant,32.43486083857168,-81.76723845829584,GA
 Bourbon Grill & More,Asian Restaurant,32.43587908859534,-81.76310897490997,GA
-Top's China Express,Asian Restaurant,32.411307,-81.771163,GA
+Top's China Express,Chinese Restaurant,32.411307,-81.771163,GA
 Soyumi,Asian Restaurant,32.43058,-81.75959,GA
-Great Wall,Asian Restaurant,32.431047882631034,-81.77881931064276,GA
+Great Wall,Chinese Restaurant,32.431047882631034,-81.77881931064276,GA
 Nikko Express,Japanese Restaurant,32.43206239011224,-81.75945913305424,GA
 China One,Chinese Restaurant,32.384261433333336,-81.6598881,GA
 Southern Palace,Chinese Restaurant,32.443775426126614,-81.78388461122276,GA
@@ -534,7 +534,7 @@ Nikkos,Japanese Restaurant,32.4320295067954,-81.75973706257015,GA
 CHINA ONE,Chinese Restaurant,32.35043463235154,-81.29066033418921,GA
 China 1,Chinese Restaurant,32.350421040163404,-81.29059045899298,Georgia
 Tin Drum Asian Kitchen,Asian Restaurant,33.391669284363964,-84.76394542312654,GA
-Panda Express,Asian Restaurant,33.39607702782724,-84.74396683063038,GA
+Panda Express,Chinese Restaurant,33.39607702782724,-84.74396683063038,GA
 Dynasty Restaurant,Chinese Restaurant,33.383140073283506,-84.7881971403465,GA
 Garlic Thai Cuisine and Sushi Bar,Thai Restaurant,33.37516403832976,-84.8001145113462,GA
 Tomo Japanese Restaurant,Japanese Restaurant,33.40989794129801,-84.68629455378495,GA
@@ -546,8 +546,8 @@ Chopsticks,Chinese Restaurant,33.40923072173899,-84.68049809642771,GA
 Yumi Asian Fusion,Asian Restaurant,33.39555049003237,-84.76419397451002,GA
 Asian Chef,Asian Restaurant,33.39571252105141,-84.7466418736738,GA
 Dollar Scoop,Asian Restaurant,33.39733808196308,-84.80740852218993,GA
-Banzai Japanese Steakhouse,Asian Restaurant,33.0413389,-84.97940799999999,GA
-Peking,Asian Restaurant,33.03006672152183,-85.06269890732459,GA
+Banzai Japanese Steakhouse,Japanese Restaurant,33.0413389,-84.97940799999999,GA
+Peking,Chinese Restaurant,33.03006672152183,-85.06269890732459,GA
 Jumbo Chinese Restaurant,Chinese Restaurant,33.049857921904575,-85.02091555856205,GA
 Jin Express,Japanese Restaurant,33.01512535906768,-85.02106351407706,GA
 Teriyaki Bistro,Japanese Restaurant,33.05466537166833,-84.99968108001171,GA
@@ -578,15 +578,15 @@ Great Wall,Chinese Restaurant,32.914343965241,-84.3334828411516,GA
 Hong Kong Express,Chinese Restaurant,32.922657,-84.3334,Georgia
 Osaka Hibachi & Sushi,Japanese Restaurant,32.925133,-84.33546,GA
 Genghis Grill,Asian Restaurant,32.924601593191,-83.73449993305992,GA
-Teriyaki House,Asian Restaurant,32.92652654911628,-83.71176617858885,GA
+Teriyaki House,Japanese Restaurant,32.92652654911628,-83.71176617858885,GA
 Chen's Wok,Chinese Restaurant,32.89847461696254,-83.70453297924315,GA
-Ming's Chinese,Asian Restaurant,32.87306155591431,-83.7089074440492,GA
+Ming's Chinese,Chinese Restaurant,32.87306155591431,-83.7089074440492,GA
 Taki Japanese Steakhouse,Japanese Restaurant,32.88242949224397,-83.76622589364985,GA
 Hong Kong Restaurant,Chinese Restaurant,32.87830581486872,-83.75953695542005,GA
 Chens Wok,Chinese Restaurant,32.82032308483737,-83.71169239874632,GA
-Tokyo Fusion,Asian Restaurant,32.87159217906439,-83.70459188019191,GA
-Lucky China,Asian Restaurant,32.82559259250162,-83.70844276686152,GA
-Hong Kong Palace,Asian Restaurant,33.03419,-83.92378151666666,GA
+Tokyo Fusion,Japanese Restaurant,32.87159217906439,-83.70459188019191,GA
+Lucky China,Chinese Restaurant,32.82559259250162,-83.70844276686152,GA
+Hong Kong Palace,Chinese Restaurant,33.03419,-83.92378151666666,GA
 New China Buffet,Chinese Restaurant,32.8122941599115,-83.72241930901554,GA
 Zheng's Wok,Chinese Restaurant,32.925142,-83.731144,GA
 Chen's Wok,Chinese Restaurant,32.87940463,-83.76457665,GA
@@ -600,10 +600,10 @@ Sunrise China,Chinese Restaurant,32.88243189148238,-83.76603835004016,GA
 Toki: Japanese Sushi & Steak House,Japanese Restaurant,33.05445,-84.15574,GA
 Nagoya,Japanese Restaurant,32.87546657069974,-83.71216368038155,GA
 ATL Deli & Sushi,Japanese Restaurant,32.878373867053945,-83.76094568086505,Georgia
-Miyako Japanese Sushi And Steakhouse,Asian Restaurant,33.42326810535516,-84.18799359645342,GA
+Miyako Japanese Sushi And Steakhouse,Japanese Restaurant,33.42326810535516,-84.18799359645342,GA
 Green Ginger,Asian Restaurant,33.398067836769464,-84.59404195562608,GA
 AZN Sandwich Bar,Asian Restaurant,33.43446763461207,-84.45579886436462,GA
-Thai Jasmine,Asian Restaurant,33.4489111527489,-84.4842792692234,GA
+Thai Jasmine,Thai Restaurant,33.4489111527489,-84.4842792692234,GA
 Royal Stix,Asian Restaurant,33.4392267,-84.5884674,GA
 Stix Sushi,Asian Restaurant,33.43881215899775,-84.58872377872467,GA
 Panda Express,Chinese Restaurant,33.44281897167718,-84.32318033352257,GA
@@ -624,10 +624,10 @@ Ichiban Japanese Restaurant and sushi bar,Japanese Restaurant,33.37744926953854,
 Royal Chef China Bistro,Chinese Restaurant,33.432010344859094,-84.4549856746686,GA
 Dua Vietnamese Restaurant,Vietnamese Restaurant,33.44770217430748,-84.4753070265711,GA
 AZN Sandwich Bar,Asian Restaurant,33.375951,-84.564197,GA
-Teriyaki Express,Asian Restaurant,33.247744,-84.289646,GA
+Teriyaki Express,Japanese Restaurant,33.247744,-84.289646,GA
 Red Ricebowl,Asian Restaurant,33.396602,-84.602737,GA
 Kane Yama,Asian Restaurant,33.37529898735341,-84.56429149068995,GA
-Happy China,Asian Restaurant,33.42286579436768,-84.55749283812244,GA
+Happy China,Chinese Restaurant,33.42286579436768,-84.55749283812244,GA
 Thai Time,Thai Restaurant,33.42973574815176,-84.18121179292868,GA
 China Kitchen,Chinese Restaurant,33.449057430452534,-84.32658124788651,GA
 Peking Restaurant,Chinese Restaurant,33.29426988671155,-84.57285314798355,GA
@@ -668,7 +668,7 @@ Sakura Buffet,Japanese Restaurant,33.43294682070932,-84.17474605184849,GA
 Sunrise China,Chinese Restaurant,33.3523174251688,-84.11790730119458,GA
 Koji Japanese Steakhouse,Japanese Restaurant,33.3526764563287,-84.11758607010798,GA
 Quickbowl Asian Kitchen,Asian Restaurant,33.430093,-84.130299,GA
-New China Buffet,Asian Restaurant,33.29412677963708,-83.95493961209229,GA
+New China Buffet,Chinese Restaurant,33.29412677963708,-83.95493961209229,GA
 Asian Garden,Chinese Restaurant,33.45258424094499,-84.16885804154133,GA
 Hong Kong Express,Chinese Restaurant,33.41489865467412,-84.1557891917189,GA
 China 1,Chinese Restaurant,33.437147,-84.120782,GA
@@ -682,12 +682,12 @@ Saki Japanese Steakhouse,Japanese Restaurant,33.294544,-83.96774,GA
 Yosi Japanese Seafood & Steak House,Japanese Restaurant,33.4067401,-84.1674674,GA
 Ichiban Grill,Japanese Restaurant,33.44709099807951,-84.14653158200963,GA
 Hibachi Sushi,Japanese Restaurant,33.43283134198607,-84.17479750370147,GA
-Shogun Japanese Restaurant,Asian Restaurant,32.87347826693062,-83.66613972552166,GA
-Leiu's Peking,Asian Restaurant,33.11204368345358,-83.25566322477484,GA
+Shogun Japanese Restaurant,Japanese Restaurant,32.87347826693062,-83.66613972552166,GA
+Leiu's Peking,Chinese Restaurant,33.11204368345358,-83.25566322477484,GA
 Hibachi Express,Asian Restaurant,33.11399520307832,-83.25880758281845,GA
-Panda Express,Asian Restaurant,32.90054287009242,-83.68814259069119,GA
+Panda Express,Chinese Restaurant,32.90054287009242,-83.68814259069119,GA
 Kuroshima,Asian Restaurant,33.08100485403625,-83.2282495237001,GA
-Tokyo Alley,Asian Restaurant,32.83696230701061,-83.62801801112475,GA
+Tokyo Alley,Japanese Restaurant,32.83696230701061,-83.62801801112475,GA
 Mandarin Chinese Restaurant,Chinese Restaurant,32.890637582183565,-83.67757353631166,GA
 Asian Bistro And Grill,Asian Restaurant,33.08099112946188,-83.22790627182266,GA
 kai thai,Thai Restaurant,33.11813831719837,-83.26406499312375,GA
@@ -697,13 +697,13 @@ Chico & Chang,Korean Restaurant,32.90210345027783,-83.68831968911118,GA
 Pho Saigon,Vietnamese Restaurant,32.88910451864372,-83.67726563275552,GA
 Hong kong Express,Asian Restaurant,33.10919563149801,-83.25719986174956,GA
 Taiwan restaurant,Asian Restaurant,32.8110847,-83.66488501666667,GA
-China Wok,Asian Restaurant,32.83745437022989,-83.62880597289953,GA
-Asian Bar Bistro & Grill,Asian Restaurant,33.08097956347782,-83.23084637681474,GA
-Tokyo Alley,Asian Restaurant,32.83696759390933,-83.62817894539855,GA
+China Wok,Chinese Restaurant,32.83745437022989,-83.62880597289953,GA
+Asian Bar Bistro & Grill,Asian Restaurant,33.08096723350498,-83.22793556096327,GA
+Tokyo Alley,Japanese Restaurant,32.83696759390933,-83.62817894539855,GA
 Ladda Bistro,Asian Restaurant,32.834805,-83.62689,GA
 Golden Palace,Asian Restaurant,32.900621,-83.687397,GA
 Ninja Japanese Sushi And Steak House,Japanese Restaurant,32.83699967177329,-83.62793073867346,GA
-Osaka Hibachi & Sushi,Asian Restaurant,32.824843,-83.654113,GA
+Osaka Hibachi & Sushi,Japanese Restaurant,32.824843,-83.654113,GA
 Sakura,Japanese Restaurant,32.85986716917254,-83.61000238049688,GA
 China Inn,Chinese Restaurant,32.85338010642808,-83.67817711546897,GA
 Mr Hong Kong,Chinese Restaurant,33.275981,-82.973584,GA
@@ -765,16 +765,16 @@ New China,Chinese Restaurant,32.74688,-81.64545941666667,GA
 Sora’s Kitchen,Asian Restaurant,33.701512,-85.155425,GA
 Chopsticks Chinese Cuisine,Chinese Restaurant,33.730066,-85.149434,GA
 Chopsticks,Chinese Restaurant,33.706600327237894,-85.16202184554835,GA
-Magic Wok,Thai Restaurant,33.74410183874182,-85.28589992526096,GA
+Magic Wok,Chinese Restaurant,33.74410183874182,-85.28589992526096,GA
 Prime Steak and Sushi,Japanese Restaurant,33.715186,-85.136472,GA
 Mizu,Asian Restaurant,33.81002995669355,-84.88714786174178,GA
-Taste of Thai,Asian Restaurant,33.7258599833185,-84.73627987500706,GA
+Taste of Thai,Thai Restaurant,33.7258599833185,-84.73627987500706,GA
 Evergreen Chinese,Chinese Restaurant,33.59471339148022,-85.04556444144762,GA
 China Express,Chinese Restaurant,33.75032360153781,-84.73173760041915,GA
 China Garden,Chinese Restaurant,33.724062593338566,-84.73582209971926,GA
 Atlantic Buffet,Asian Restaurant,33.729723488993336,-84.76035530318332,GA
 Kobe Japanese Steakhouse,Japanese Restaurant,33.58520318771595,-85.05893023861445,GA
-Momoya Japanese Steakhouse,Asian Restaurant,33.72332176481542,-84.7589280944041,GA
+Momoya Japanese Steakhouse,Japanese Restaurant,33.72332176481542,-84.7589280944041,GA
 Wasabi Japanese Cuisine,Japanese Restaurant,33.72633248287678,-84.7619697505373,GA
 King Buffet,Chinese Restaurant,33.72864641119299,-84.75260295216816,GA
 Chinese Pagoda,Chinese Restaurant,33.72689045735476,-84.7640965913445,GA
@@ -783,7 +783,7 @@ China East,Chinese Restaurant,33.732857622839425,-84.75858362172701,GA
 Sumo Japanese Restaurant,Japanese Restaurant,33.7334028210944,-84.89940658829336,GA
 Sakura Sushi & Grill,Japanese Restaurant,33.72398961123138,-84.73588149853184,GA
 Daruma,Japanese Restaurant,33.730075123816086,-84.7405140128737,GA
-Lin's Garden Chinese & Japanese,Asian Restaurant,33.730704179490985,-84.94104395267388,GA
+Lin's Garden Chinese & Japanese,Japanese Restaurant,33.730704179490985,-84.94104395267388,GA
 Hong Kong Chinese,Chinese Restaurant,33.573447918712404,-85.0875670019236,GA
 Tokyo Express,Japanese Restaurant,33.56036977232493,-85.07596564899585,GA
 Mandarin Express,Asian Restaurant,33.728320418200916,-84.74454574137619,GA
@@ -827,10 +827,10 @@ China One,Chinese Restaurant,34.044844,-85.2392052,GA
 No. 1 China,Chinese Restaurant,34.044925525914,-85.23932276729222,GA
 Chef Chen,Chinese Restaurant,34.01829020949062,-85.25243527434056,Georgia
 Hibachi Express,Japanese Restaurant,34.01831187416229,-85.25394649946094,GA
-Panda Express,Asian Restaurant,33.88970887067784,-84.74710654294218,GA
-Panda Express,Asian Restaurant,34.036514011301676,-84.68341702794909,GA
+Panda Express,Chinese Restaurant,33.88970887067784,-84.74710654294218,GA
+Panda Express,Chinese Restaurant,34.036514011301676,-84.68341702794909,GA
 Hibachi Express,Asian Restaurant,34.01254301107524,-85.03158861252338,GA
-MiniStop Chinese,Asian Restaurant,34.030167907525566,-84.65595676086393,GA
+MiniStop Chinese,Chinese Restaurant,34.030167907525566,-84.65595676086393,GA
 Ming Moon,Chinese Restaurant,34.165817187638964,-84.7881694233132,GA
 Long River Chinese Cuisine,Chinese Restaurant,33.902979486932125,-84.67297390630097,GA
 Atami Steak & Sushi,Asian Restaurant,34.0368638532253,-84.77337906165351,GA
@@ -850,14 +850,14 @@ Tokyo Japanese Steakhouse,Japanese Restaurant,34.17058357285042,-84.786234387137
 Panda Express,Chinese Restaurant,33.902083,-84.772747,GA
 Okinawa Hibachi & Sushi,Japanese Restaurant,33.953534515157216,-84.66084732384137,GA
 Dragon Garden Chinese,Chinese Restaurant,34.17674831885671,-84.78765842480448,GA
-Hot Wok,Asian Restaurant,33.96853004994156,-84.66534278357426,GA
-Teriyaki Buffet,Asian Restaurant,34.191600440669106,-84.78959458072387,GA
-House Of China,Asian Restaurant,33.90953687,-84.80536214,GA
+Hot Wok,Chinese Restaurant,33.96853004994156,-84.66534278357426,GA
+Teriyaki Buffet,Japanese Restaurant,34.191600440669106,-84.78959458072387,GA
+House Of China,Chinese Restaurant,33.90953687,-84.80536214,GA
 Hibachi & Grill Sushi Buffet,Asian Restaurant,34.17436,-84.7874109,GA
 Asian Express,Asian Restaurant,33.8910555198623,-84.75687193435715,GA
 Pacific Spice Sushi & Hibachi,Japanese Restaurant,34.06408,-84.726505,GA
 Atami Grill And Sushi,Japanese Restaurant,33.95482421614082,-84.6567088752982,GA
-Hong Kong,Asian Restaurant,34.20111034433581,-84.78819130333551,GA
+Hong Kong,Chinese Restaurant,34.20111034433581,-84.78819130333551,GA
 Panda Garden,Chinese Restaurant,33.91035664309632,-84.82227298508356,GA
 House of Lu,Chinese Restaurant,33.93501938333325,-84.7262700321798,GA
 Hai Hai Japanese Steakhouse,Japanese Restaurant,33.8887760863649,-84.74304491471926,GA
@@ -884,7 +884,7 @@ Kumo,Japanese Restaurant,34.1678905952127,-84.78476816352793,GA
 Tokyo,Japanese Restaurant,34.03918221666667,-84.68988393333333,GA
 Kumo Hibachi & Sushi,Japanese Restaurant,34.168335,-84.784965,GA
 Fuji Sushi <3,Japanese Restaurant,33.901438477770135,-84.75050772795433,Georgia
-Thai Basil,Japanese Restaurant,34.03516075614162,-84.67618593516607,GA
+Thai Basil,Thai Restaurant,34.03516075614162,-84.67618593516607,GA
 Hot Cafe,Asian Restaurant,33.611082316584834,-84.43631087270174,GA
 P.F. Chang's,Asian Restaurant,33.64071556171471,-84.43928128477637,GA
 Pei Wei Asian Diner,Asian Restaurant,33.639879881302086,-84.41969644530562,GA
@@ -894,17 +894,17 @@ Panda Express,Chinese Restaurant,33.5608154734347,-84.41434590005495,GA
 Kiku Japanese Steakhouse,Japanese Restaurant,33.4800805874891,-84.44713856907532,GA
 Zab-E-Lee Thai & Sushi,Thai Restaurant,33.623657961513366,-84.47635968325763,GA
 City Buffet,Asian Restaurant,33.55924342541802,-84.41572303203415,GA
-Panda Express,Asian Restaurant,33.64080788827975,-84.42561706308123,GA
+Panda Express,Chinese Restaurant,33.64080788827975,-84.42561706308123,GA
 Golden Chopstix,Chinese Restaurant,33.45688714572679,-84.4535611171071,GA
 BonChon,Korean Restaurant,33.479774372115266,-84.43947046037103,GA
 Asian Chao (Concourse D),Asian Restaurant,33.642086,-84.429565,GA
 Asian Chao,Asian Restaurant,33.640686978959806,-84.4447374343872,GA
-China Wok,Asian Restaurant,33.566194445576755,-84.53625096979329,GA
+China Wok,Chinese Restaurant,33.566194445576755,-84.53625096979329,GA
 Golden Crown,Chinese Restaurant,33.601457351273204,-84.42755231156598,GA
 Fried Rice King,Asian Restaurant,33.55324314752517,-84.46502445295457,GA
 Asian Chao,Asian Restaurant,33.64082017893836,-84.43617852210839,GA
 China 88,Chinese Restaurant,33.611787009869296,-84.60964399106162,GA
-Teriyaki Experience,Asian Restaurant,33.640572676766986,-84.4447791650813,GA
+Teriyaki Experience,Japanese Restaurant,33.640572676766986,-84.4447791650813,GA
 Umai Zushi,Japanese Restaurant,33.64099409955469,-84.43256794710261,GA
 China One,Chinese Restaurant,33.60667293248994,-84.44485518691707,GA
 China Cafe 7,Chinese Restaurant,33.60624721666667,-84.43482655,GA
@@ -930,11 +930,11 @@ The Lobby Bar,Japanese Restaurant,33.626347671099175,-84.46036073262594,GA
 Bonchon,Korean Restaurant,33.479916,-84.439644,GA
 Bonchon - Fayetteville,Korean Restaurant,33.4798238,-84.4395607,GA
 Legend Cafe,Chinese Restaurant,33.616286001057816,-84.47215173284941,GA
-Pho Lanxang,Asian Restaurant,33.63023358944029,-84.35681444939306,GA
+Pho Lanxang,Vietnamese Restaurant,33.63023358944029,-84.35681444939306,GA
 Kazu,Asian Restaurant,33.554431327911765,-84.25631162861026,GA
 Fusion House (the old Bamboo Stix),Asian Restaurant,33.57764070492826,-84.41247279095397,GA
 Golden Gate,Chinese Restaurant,33.63584796380687,-84.35963300561288,GA
-Wok Asian Stir Fry,Asian Restaurant,33.5612028935678,-84.32305598180965,GA
+Wok Asian Stir Fry,Chinese Restaurant,33.5612028935678,-84.32305598180965,GA
 Insee Thai Asian Cuisine,Thai Restaurant,33.51381999553917,-84.21376509901641,GA
 Yuki Japanese Restaurant,Japanese Restaurant,33.46204380627603,-84.21431199971617,GA
 Sabiang Thai,Thai Restaurant,33.49891876430702,-84.18193482710065,GA
@@ -948,15 +948,15 @@ Lee's Golden Buddha,Japanese Restaurant,33.56446184143177,-84.34485031879107,GA
 Thai Garden,Thai Restaurant,33.516789447638985,-84.19141527798736,GA
 China House,Chinese Restaurant,33.554524392655296,-84.23265270252337,GA
 Hibachi Grill,Japanese Restaurant,33.57883060104179,-84.37474278469303,GA
-China City,Asian Restaurant,33.53864375818094,-84.36432715412168,GA
-New China Wing,Asian Restaurant,33.61567623582562,-84.35091091931955,GA
-Little Pho Hut,Asian Restaurant,33.576332092285156,-84.41329956054688,GA
+China City,Chinese Restaurant,33.53864375818094,-84.36432715412168,GA
+New China Wing,Chinese Restaurant,33.61567623582562,-84.35091091931955,GA
+Little Pho Hut,Vietnamese Restaurant,33.576332092285156,-84.41329956054688,GA
 Mandarin Express,Asian Restaurant,33.57555111236597,-84.3523589720463,GA
 International Buffet,Asian Restaurant,33.54952236178188,-84.27314673245846,GA
 J & J BBQ & Grill,Asian Restaurant,33.57772848843662,-84.35181980762718,GA
-Fuji Express,Asian Restaurant,33.50426252814916,-84.23538871134735,GA
-China Cafe Waikiki,Asian Restaurant,33.503172397613525,-84.237873,GA
-China Wok,Asian Restaurant,33.50794427630606,-84.22879292309145,GA
+Fuji Express,Japanese Restaurant,33.50426252814916,-84.23538871134735,GA
+China Cafe Waikiki,Chinese Restaurant,33.503172397613525,-84.237873,GA
+China Wok,Chinese Restaurant,33.50794427630606,-84.22879292309145,GA
 Trang Tien,Vietnamese Restaurant,33.58338863716617,-84.33650722964272,GA
 Flavors of Thailand,Thai Restaurant,33.53725019973187,-84.36363932544265,GA
 Tokyo Japanese Steakhouse,Japanese Restaurant,33.55227022469167,-84.27046806391138,GA
@@ -964,7 +964,7 @@ Umi Japanese Steak House & Sushi Bar,Japanese Restaurant,33.514074332099355,-84.
 Kung Fu Wings,Chinese Restaurant,33.59431806093855,-84.40848724771358,GA
 Golden Buddha & Peach Garden MoMoYa,Japanese Restaurant,33.564525415776004,-84.34508800506592,GA
 Taste of Thailand,Thai Restaurant,33.52156449808136,-84.36332005825975,GA
-Tokyo express,Chinese Restaurant,33.57891939571997,-84.35234870229382,GA
+Tokyo express,Japanese Restaurant,33.57891939571997,-84.35234870229382,GA
 China Cafeteria,Chinese Restaurant,33.572693,-84.351296,GA
 Great Wall Chinese Restaurant,Chinese Restaurant,33.58356171523175,-84.31572495,GA
 pacific grill and buffet,Chinese Restaurant,33.57055680771815,-84.345693527148,GA
@@ -990,8 +990,8 @@ China Spring,Chinese Restaurant,33.537365721273055,-84.36691455001362,GA
 Hong Kong City,Chinese Restaurant,33.600777630779604,-84.3374241651417,GA
 Hong Kong King Buffet,Chinese Restaurant,33.55388805932312,-84.263157,GA
 Hong Kong Cafe,Chinese Restaurant,33.46596023187628,-84.2156817175291,GA
-Bamboo Panda,Japanese Restaurant,33.58281141932601,-84.41237051876821,GA
-Sushi China Cafe,Japanese Restaurant,33.57186113596324,-84.33962710536781,GA
+Bamboo Panda,Chinese Restaurant,33.58281141932601,-84.41237051876821,GA
+Sushi China Cafe,Chinese Restaurant,33.57186113596324,-84.33962710536781,GA
 Dragon Garden,Chinese Restaurant,33.54216644667279,-84.28332137791502,GA
 Taste Of Thailand,Thai Restaurant,33.531238,-84.354487,GA
 Nam Oy,Thai Restaurant,33.60457898375738,-84.35543468252887,GA
@@ -1010,8 +1010,8 @@ Orange Ave Cafe,Korean Restaurant,33.566732,-84.326016,GA
 Eat More Korean,Korean Restaurant,33.566515,-84.326349,GA
 Noodle,Asian Restaurant,33.65440541636192,-84.44965046221365,GA
 Malaya,Asian Restaurant,33.80992974955863,-84.41641808404029,GA
-KiKu Japanese Steak & Seafood House,Asian Restaurant,33.65838734916072,-84.50179250260527,GA
-Panda Express,Asian Restaurant,33.657646099089675,-84.50046237131036,GA
+KiKu Japanese Steak & Seafood House,Japanese Restaurant,33.65838734916072,-84.50179250260527,GA
+Panda Express,Chinese Restaurant,33.657646099089675,-84.50046237131036,GA
 Han's Chinese,Chinese Restaurant,33.72190479566546,-84.4654144735009,GA
 Chef Chen,Chinese Restaurant,33.831653184143164,-84.4932624172113,GA
 Happy Buddha,Chinese Restaurant,33.65954432827926,-84.43686774109995,GA
@@ -1022,7 +1022,7 @@ Hong Kong City,Chinese Restaurant,33.73816618029647,-84.41439150788719,GA
 New Han's Chinese Restaurant,Chinese Restaurant,33.83575821318145,-84.57490390193995,GA
 New Dragon,Chinese Restaurant,33.811078561733716,-84.4258152094655,GA
 China Inn,Chinese Restaurant,33.805471681799915,-84.52637454882591,GA
-Panda Wok,Asian Restaurant,33.68001967516797,-84.41756149217052,GA
+Panda Wok,Chinese Restaurant,33.68001967516797,-84.41756149217052,GA
 China Express - Cascade Heights,Chinese Restaurant,33.725200071994074,-84.51162233807297,GA
 Panda Express,Chinese Restaurant,33.65006446584403,-84.46306543368355,GA
 Panda Express,Chinese Restaurant,33.768862539472266,-84.55154641348614,Georgia
@@ -1030,19 +1030,19 @@ Han's II,Chinese Restaurant,33.688372080998704,-84.48859721887544,GA
 Hankook Taqueria,Korean Restaurant,33.81144449101696,-84.43160027846834,GA
 YoiYoi Steakhouse & Sushi,Japanese Restaurant,33.80989609114337,-84.41599172026307,GA
 New China,Chinese Restaurant,33.78956276362995,-84.62093492287293,GA
-China Restuarant,Asian Restaurant,33.807045621945356,-84.57037069516737,GA
+China Restuarant,Chinese Restaurant,33.807045621945356,-84.57037069516737,GA
 Lucky 101 & Friendly Grill,Asian Restaurant,33.69589,-84.497675,GA
-Lucky Panda,Asian Restaurant,33.775337,-84.471863,GA
-Peking House,Asian Restaurant,33.83899783362088,-84.48121422815177,GA
+Lucky Panda,Chinese Restaurant,33.775337,-84.471863,GA
+Peking House,Chinese Restaurant,33.83899783362088,-84.48121422815177,GA
 New Han's II,Asian Restaurant,33.66686969250959,-84.46539735968263,Georgia
-Hibachi Japan,Asian Restaurant,33.824,-84.57469,GA
+Hibachi Japan,Japanese Restaurant,33.824,-84.57469,GA
 Scott's Eats and Sweets,Vietnamese Restaurant,33.817502550784,-84.58788449445073,GA
 China Cafeteria,Chinese Restaurant,33.73882178797798,-84.43463086100911,GA
 Mulan Asian Cuisine,Chinese Restaurant,33.72188810800388,-84.50933556243103,GA
 Bei Jin,Chinese Restaurant,33.768871643721454,-84.59991704810827,GA
 Grand Buffet,Chinese Restaurant,33.76593216227685,-84.53007328261836,GA
 China 1,Chinese Restaurant,33.65503673785871,-84.5047168961395,GA
-Hong Kong Super Buffet,Asian Restaurant,33.77570646138693,-84.56116402893153,GA
+Hong Kong Super Buffet,Chinese Restaurant,33.77570646138693,-84.56116402893153,GA
 China Cafeteria,Chinese Restaurant,33.82553519190547,-84.49070700237628,GA
 Wings & Seafood,Chinese Restaurant,33.754005,-84.497309,GA
 China Cafeteria,Chinese Restaurant,33.7602375297715,-84.50603480733403,GA
@@ -1069,7 +1069,7 @@ New Star Chinese Restaurant,Chinese Restaurant,33.72361971438013,-84.49934069366
 Octopus Bar,Asian Restaurant,33.73963581400121,-84.34567080881718,GA
 Spoon,Thai Restaurant,33.733804070860984,-84.3498370373418,GA
 Yum's,Chinese Restaurant,33.72258434033923,-84.39297509171163,GA
-EAV Thai and Sushi,Japanese Restaurant,33.741193749543136,-84.34656866879939,GA
+EAV Thai and Sushi,Thai Restaurant,33.741193749543136,-84.34656866879939,GA
 So Ba Vietnamese Restaurant,Vietnamese Restaurant,33.739440082949315,-84.34570625725641,GA
 Buffalo China,Chinese Restaurant,33.742998407555774,-84.35546053706365,GA
 China King,Chinese Restaurant,33.72188653286058,-84.34820136939453,GA
@@ -1089,7 +1089,7 @@ Fried Rice King Jr.,Chinese Restaurant,33.680924309117145,-84.4018486711179,GA
 Lunch box,Chinese Restaurant,33.71568871778553,-84.39493881906071,GA
 Sushi Burri,Japanese Restaurant,33.74103156161105,-84.34650974442943,GA
 Wiggle Room,Asian Restaurant,33.653752678466645,-84.3973130766135,GA
-Lifting Noodles Ramen,Asian Restaurant,33.741054,-84.346648,GA
+Lifting Noodles Ramen,Japanese Restaurant,33.741054,-84.346648,GA
 Dragon Restaurant,Chinese Restaurant,33.70937675645914,-84.21843108460685,GA
 China Cafeteria,Chinese Restaurant,33.71479685126335,-84.21683854626912,GA
 Wonder Wok,Chinese Restaurant,33.73859557666669,-84.28028304834085,Georgia
@@ -1105,7 +1105,7 @@ Lucky Panda,Chinese Restaurant,33.730439798561534,-84.19569750848675,GA
 New China Express,Chinese Restaurant,33.717886066870996,-84.21491114604589,GA
 China Panda,Chinese Restaurant,33.68027168110752,-84.22885457465208,GA
 China One,Chinese Restaurant,33.69509093709811,-84.26183969065058,GA
-NaanStop,Asian Restaurant,33.755792460006006,-84.38927438016196,GA
+NaanStop,Indo-Pak Restaurant,33.755792460006006,-84.38927438016196,GA
 Pacific Rim Bistro,Asian Restaurant,33.762538423195515,-84.38615021063602,GA
 Hsu's Gourmet,Indo-Pak Restaurant,33.75956512767296,-84.38608767603405,GA
 Mr. Hibachi,Asian Restaurant,33.75461161055097,-84.38818405662046,GA
@@ -1120,7 +1120,7 @@ Munch,Asian Restaurant,33.752318787017664,-84.39530968666077,GA
 Oriental Express Restaurant,Asian Restaurant,33.74809,-84.39526,GA
 Kempani Hawaiian Grill,Asian Restaurant,33.75211360610626,-84.38958021058419,GA
 East Wave,Asian Restaurant,33.75611889753771,-84.38890173116646,GA
-Kwan's Deli and Korean Kitchen,Asian Restaurant,33.76085112409367,-84.39406349170086,GA
+Kwan's Deli and Korean Kitchen,Korean Restaurant,33.76085112409367,-84.39406349170086,GA
 East Wave Asian Fusion,Asian Restaurant,33.7563512,-84.3891443,GA
 Mr Wang's Chinese Restaurant,Chinese Restaurant,33.755318,-84.38903,GA
 Georgia Best Bento BBQ,Chinese Restaurant,33.7556796,-84.389744,GA
@@ -1182,10 +1182,10 @@ Pho King,Vietnamese Restaurant,33.78042975591016,-84.38745879910743,GA
 Panda Express,Chinese Restaurant,33.773779492893055,-84.39813668981611,GA
 Kuroshio Midtown Sushi And Lounge,Japanese Restaurant,33.78065156176618,-84.3876054653073,GA
 Lucky Buddha,Chinese Restaurant,33.78171591637224,-84.40475499692447,GA
-Lucky Buddha Chinese Thai And Sushi,Chinese Restaurant,33.782011509196565,-84.40488075697765,GA
+Lucky Buddha Chinese Thai And Sushi,Thai Restaurant,33.782011509196565,-84.40488075697765,GA
 Tamarina Seed,Thai Restaurant,33.782093,-84.385419,GA
 Miyako Sushi and Sake Bar,Japanese Restaurant,33.771735,-84.385108,GA
-Dua Vietnamese Restaurant,Asian Restaurant,33.78435031583218,-84.3845836837626,GA
+Dua Vietnamese Restaurant,Vietnamese Restaurant,33.78435031583218,-84.3845836837626,GA
 Pho King - Midtown,Vietnamese Restaurant,33.779143,-84.38733,GA
 Poor Calvin's,Asian Restaurant,33.7684,-84.38226,GA
 Ah-Ma's Taiwanese Kitchen,Asian Restaurant,33.7801031184737,-84.36816504006043,GA
@@ -1207,7 +1207,7 @@ Green Ginger,Asian Restaurant,33.776634015893634,-84.29972934038832,GA
 Doc Chey's Dragon Bowl,Asian Restaurant,33.78811788448732,-84.326559315127,GA
 Ru San's,Asian Restaurant,33.758830107173544,-84.34867514031637,GA
 CO,Asian Restaurant,33.773064,-84.35194560000001,GA
-Panita Thai Kitchen,Asian Restaurant,33.77652545288183,-84.3530715369489,GA
+Panita Thai Kitchen,Thai Restaurant,33.77652545288183,-84.3530715369489,GA
 Rice Mac,Chinese Restaurant,33.79077346951623,-84.30751015753945,GA
 Surin of Thailand,Thai Restaurant,33.7765778,-84.352685,GA
 Harry & Son's,Japanese Restaurant,33.776931883715946,-84.35263555981582,GA
@@ -1236,7 +1236,7 @@ Maki Fresh,Asian Restaurant,33.819597569799654,-84.38682608777295,GA
 Tin Drum Asiacafé,Asian Restaurant,33.812054721339535,-84.40072506660705,GA
 Su's Chinese Cuisine,Chinese Restaurant,33.79650267329909,-84.37100252614078,GA
 Canton Buddha,Chinese Restaurant,33.83431921602446,-84.38363456274577,GA
-Extreme Teriyaki at Howell Mill,Asian Restaurant,33.80411216389999,-84.41283310791536,GA
+Extreme Teriyaki at Howell Mill,Japanese Restaurant,33.80411216389999,-84.41283310791536,GA
 Qing Mu,Asian Restaurant,33.839429371376035,-84.37868699971742,GA
 Tuk Tuk Thai Food Loft,Thai Restaurant,33.80165694584953,-84.39246448272368,GA
 Nan Thai Fine Dining,Thai Restaurant,33.791736335961396,-84.3894102298275,GA
@@ -1249,18 +1249,18 @@ Top Spice,Thai Restaurant,33.79552090303348,-84.3691315331494,GA
 Bangkok Thai Restaurant,Thai Restaurant,33.79567682432947,-84.37083815973178,GA
 Gyu-Kaku,Japanese Restaurant,33.792901,-84.397064,GA
 Kiku Japanese Steak House,Japanese Restaurant,33.83080095628297,-84.35639468229851,GA
-Grand China Restaurant,Japanese Restaurant,33.834112,-84.382852,GA
+Grand China Restaurant,Chinese Restaurant,33.834112,-84.382852,GA
 Doraku,Japanese Restaurant,33.83937436684568,-84.37901218899472,GA
 Starfish Sushi & Sake Bar,Japanese Restaurant,33.81593592096711,-84.39073762654986,GA
 Ru San's Midtown,Japanese Restaurant,33.795646,-84.368907,GA
-Extreme Teriyaki Grill Express,Asian Restaurant,33.80401263654072,-84.4127457781027,GA
+Extreme Teriyaki Grill Express,Japanese Restaurant,33.80401263654072,-84.4127457781027,GA
 Benihana,Japanese Restaurant,33.812584487239874,-84.3919900901628,GA
 Chai Yo,Thai Restaurant,33.839144,-84.381412,GA
 Dragon D Fast,Asian Restaurant,33.836807363762325,-84.3767035305103,GA
 Oriental Delight,Asian Restaurant,33.809790089723066,-84.39175598364086,GA
 Bao Bun Cafe,Asian Restaurant,33.80123,-84.413574,GA
-Extreme Teriyaki at Buckhead Crossing,Asian Restaurant,33.826180291112344,-84.36629222685748,GA
-Pho 24,Asian Restaurant,33.793056,-84.397231,GA
+Extreme Teriyaki at Buckhead Crossing,Japanese Restaurant,33.826180291112344,-84.36629222685748,GA
+Pho 24,Vietnamese Restaurant,33.793056,-84.397231,GA
 China Garden,Chinese Restaurant,33.797727411403656,-84.36923876247468,GA
 Pho King,Vietnamese Restaurant,33.814703205424166,-84.39151297552384,GA
 Pagoda Chinese Restaurant,Chinese Restaurant,33.806816372771635,-84.36680674411755,GA
@@ -1273,7 +1273,7 @@ Poke City,Asian Restaurant,33.8151136473573,-84.39127564430237,GA
 Genki-To-Go Food Truck,Asian Restaurant,33.8063516137947,-84.41319125655099,GA
 Bun Mi,Vietnamese Restaurant,33.81580893040585,-84.39043879508972,GA
 Waikikie Hawaiian BBQ,Asian Restaurant,33.816644622373694,-84.33554933974085,GA
-Little Bangkok,Asian Restaurant,33.81585054624896,-84.3525194643487,GA
+Little Bangkok,Thai Restaurant,33.81585054624896,-84.3525194643487,GA
 Doc Chey's Noodle House,Asian Restaurant,33.79287936405027,-84.35196558089685,GA
 The Golden Buddha,Asian Restaurant,33.81021065517613,-84.30844945204008,GA
 Himalayan Spice,Asian Restaurant,33.83833025997327,-84.31091713353698,GA
@@ -1282,8 +1282,8 @@ Hong Kong Harbour,Chinese Restaurant,33.81448667206053,-84.35364429075835,GA
 Top Spice Thai & Malaysian Cuisine,Thai Restaurant,33.813476613445914,-84.3101797740819,GA
 Rain Thai and Sushi Bar,Thai Restaurant,33.818675471770746,-84.34999810207182,GA
 Thai Chili,Thai Restaurant,33.81685088168094,-84.33465771045037,GA
-Thaicoon & Sushi Bar,Japanese Restaurant,33.80476288157619,-84.33594674134321,GA
-Hajime Ramen,Asian Restaurant,33.81910886766401,-84.34969986386416,GA
+Thaicoon & Sushi Bar,Thai Restaurant,33.80476288157619,-84.33594674134321,GA
+Hajime Ramen,Japanese Restaurant,33.81910886766401,-84.34969986386416,GA
 BoruBoru,Japanese Restaurant,33.80073476293921,-84.32661284452772,GA
 Sushi Itto,Japanese Restaurant,33.81702891808523,-84.334447142828,GA
 Mama Tiger,Asian Restaurant,33.793413053997845,-84.32326273876336,GA
@@ -1292,7 +1292,7 @@ Apple House,Asian Restaurant,33.79266,-84.30504,GA
 Chow Mei Mei,Asian Restaurant,33.800719,-84.327578,GA
 magic dragon habersham ga,Asian Restaurant,33.83993148803711,-84.3141098022461,GA
 Tin Drum Asian Kitchen - The Village at Druid Hills,Asian Restaurant,33.828463,-84.328901,GA
-Mint 2 Thai & Sushi,Asian Restaurant,33.792567280500975,-84.30534282269576,GA
+Mint 2 Thai & Sushi,Thai Restaurant,33.792567280500975,-84.30534282269576,GA
 Little Szechuan,Chinese Restaurant,33.831599589241385,-84.34196662518843,GA
 Matsuya,Japanese Restaurant,33.81607603121424,-84.31303577349608,GA
 Pyng Ho,Chinese Restaurant,33.79235908382724,-84.30494441929699,GA
@@ -1310,7 +1310,7 @@ Noodle,Asian Restaurant,33.77542867806042,-84.29456247181677,GA
 Chinese Dhaba,Chinese Restaurant,33.798346095062534,-84.28100164464297,GA
 Panda Express,Chinese Restaurant,33.803069311313536,-84.19338127442931,GA
 Magic Wok,Chinese Restaurant,33.78757207582222,-84.23185278369455,GA
-China Buffet Chinese Restaurant,Asian Restaurant,33.79162619224714,-84.27450249440822,GA
+China Buffet Chinese Restaurant,Chinese Restaurant,33.79162619224714,-84.27450249440822,GA
 Shun Xing,Asian Restaurant,33.755179100155125,-84.23329376229684,GA
 "Tin Drum Asian Kitchen - Decatur, GA",Asian Restaurant,33.793211814256,-84.2844178326166,GA
 Red Chili Cafe,Asian Restaurant,33.80035593000652,-84.20646683068844,GA
@@ -1335,7 +1335,7 @@ Buffett 2000,Japanese Restaurant,33.78715,-84.233508,GA
 "Sushi, Duluth",Japanese Restaurant,33.74424424030969,-84.19798868797591,GA
 Tabi Sushi,Japanese Restaurant,33.79203,-84.28639,GA
 D 92 Korean BBQ,Korean Restaurant,33.772139,-84.294069,GA
-Nagano Japanese Steakhouse,Asian Restaurant,33.8248964425624,-84.11380794857943,GA
+Nagano Japanese Steakhouse,Japanese Restaurant,33.8248964425624,-84.11380794857943,GA
 Chou-Lee's,Chinese Restaurant,33.722623373336546,-84.16794743803997,GA
 Mandarin Garden,Chinese Restaurant,33.64097192102625,-84.01369033923845,GA
 Panda Express,Chinese Restaurant,33.63129360429291,-84.01498306256397,GA
@@ -1357,7 +1357,7 @@ Kyoto Japanese Steak & Sushi,Japanese Restaurant,33.83175904370659,-83.882958248
 Grand China II,Chinese Restaurant,33.69273783310081,-84.08781478946754,GA
 "Nagoya Japanese Steakhouse, Seafood & Sushi Bar",Japanese Restaurant,33.6098284755336,-83.88688833196811,GA
 Main Moon,Asian Restaurant,33.78575115120799,-84.15950356918317,GA
-Thai In The BOX,Asian Restaurant,33.64224,-84.01401,GA
+Thai In The BOX,Thai Restaurant,33.64224,-84.01401,GA
 Kelly’s Fusion Express,Asian Restaurant,33.639811,-84.013931,GA
 Sake Express,Asian Restaurant,33.835536,-83.898075,GA
 Mandarin Palace,Chinese Restaurant,33.60363841364855,-83.86111057885567,GA
@@ -1383,7 +1383,7 @@ New China,Chinese Restaurant,33.59304006209566,-83.96848087485276,GA
 Peking Palace,Chinese Restaurant,33.797073,-83.741,GA
 China Panda,Chinese Restaurant,33.71822551922667,-84.14254229302438,GA
 China Star,Chinese Restaurant,33.57699542495209,-83.96439813908923,GA
-Little Tokyo,Chinese Restaurant,33.698350983333334,-84.0955827,GA
+Little Tokyo,Japanese Restaurant,33.698350983333334,-84.0955827,GA
 New China II,Chinese Restaurant,33.652319,-83.999869,GA
 Hong Kong King Buffet,Chinese Restaurant,33.82391,-84.10734,GA
 Peking Chinese Restaurant,Chinese Restaurant,33.54876126752941,-84.01573318768605,GA
@@ -1411,7 +1411,7 @@ Daruma Japanese Restaurant,Japanese Restaurant,33.633099,-84.014503,GA
 Yuki Teriyaki & Sushi,Japanese Restaurant,33.683839,-83.998751,GA
 C&C Wings N Grill,Korean Restaurant,33.652130625961746,-83.9995213837264,GA
 Hibachi Express,Japanese Restaurant,33.652866,-83.999985,GA
-Hoang Long Vietnamese Restaurant,Asian Restaurant,33.902289002519296,-84.54355445821507,GA
+Hoang Long Vietnamese Restaurant,Vietnamese Restaurant,33.902289002519296,-84.54355445821507,GA
 Oriental Cafe,Asian Restaurant,33.867051778644495,-84.62785595851057,GA
 House Of Lu III,Chinese Restaurant,33.90718389117335,-84.60269454754739,GA
 Lucky Dragon,Asian Restaurant,33.862121795400704,-84.59737666154258,GA
@@ -1431,8 +1431,8 @@ Okinawa,Japanese Restaurant,33.854298,-84.598305,GA
 Musashi-Japanese Steakhouse,Japanese Restaurant,33.90883981497115,-84.60177331426709,GA
 P.F. Chang's,Asian Restaurant,33.88102539407168,-84.46861499551233,GA
 Big Chow Grill,Asian Restaurant,33.88402447644981,-84.46663109174133,GA
-China Doll Restaurant,Asian Restaurant,33.92219557039097,-84.46834845866641,GA
-China Moon,Asian Restaurant,33.86514735318949,-84.47001248589686,GA
+China Doll Restaurant,Chinese Restaurant,33.92219557039097,-84.46834845866641,GA
+China Moon,Chinese Restaurant,33.86514735318949,-84.47001248589686,GA
 Orient Express,Chinese Restaurant,33.866090781407856,-84.46778104873484,GA
 Great Wall Chinese & Shiro Sushi Bar,Chinese Restaurant,33.920870126683376,-84.46667053704365,GA
 No. 1 China,Chinese Restaurant,33.87609747280146,-84.53260187203865,GA
@@ -1463,7 +1463,7 @@ Tokyo Sushi and Steak House,Japanese Restaurant,33.84164147624121,-84.5053093767
 Panda Express,Chinese Restaurant,33.88356995664368,-84.47520997595369,GA
 Wyer Street Foods,Asian Restaurant,33.877716,-84.53093,GA
 BigJoy,Asian Restaurant,33.92318404558945,-84.4721312351731,GA
-China Wok,Asian Restaurant,33.92521361747696,-84.48721045798241,GA
+China Wok,Chinese Restaurant,33.92521361747696,-84.48721045798241,GA
 Tin Drum Asian Kitchen - Akers Mill Square,Asian Restaurant,33.88269501840683,-84.46201631910104,GA
 Asian Station,Asian Restaurant,33.86563046883137,-84.4810314054618,GA
 Lin Asian Buffet,Asian Restaurant,33.877259366666664,-84.53065225,GA
@@ -1471,7 +1471,7 @@ The Asian Station- Homedepot,Asian Restaurant,33.86521,-84.481764,Georgia
 Mandarin Express,Asian Restaurant,33.87994201438454,-84.46782926713222,GA
 Pho Dakao,Vietnamese Restaurant,33.89274035316626,-84.47737637998488,GA
 The Village Sushi & Gourmet,Japanese Restaurant,33.883944539003615,-84.51533080327012,GA
-L'Thai Westside,Asian Restaurant,33.84468492479208,-84.49112892150879,GA
+L'Thai Westside,Thai Restaurant,33.84468492479208,-84.49112892150879,GA
 China Taste,Chinese Restaurant,33.865815349108196,-84.49233254303739,GA
 7 Star Chinese Restaurant,Chinese Restaurant,33.9047555885272,-84.46601570851394,GA
 China Wok,Chinese Restaurant,33.843423178693406,-84.5033202013016,GA
@@ -1489,7 +1489,7 @@ Michi Ru,Japanese Restaurant,33.842588,-84.498567,GA
 うめぞのレストラン,Japanese Restaurant,33.90138387680054,-84.48736846446991,GA
 Tokyo Express,Japanese Restaurant,33.87996150226343,-84.4678007892232,GA
 とまと,Japanese Restaurant,33.901476,-84.487551,GA
-Intentional Wok,Asian Restaurant,33.89087908232278,-84.46779561018299,GA
+Intentional Wok,Chinese Restaurant,33.89087908232278,-84.46779561018299,GA
 Saigon Cafe,Vietnamese Restaurant,33.8868644,-84.4754236,GA
 Chopsticks Asian Bistro,Japanese Restaurant,33.865605,-84.476086,GA
 Yakatori Sushi,Japanese Restaurant,33.893644,-84.476698,GA
@@ -1497,7 +1497,7 @@ Village Sushi,Japanese Restaurant,33.88376990216531,-84.51536533474948,GA
 Fugu Express,Japanese Restaurant,33.923301399483,-84.46603675850098,GA
 Big Joy,Korean Restaurant,33.923185046930655,-84.47198262680483,GA
 575 Bistro,Asian Restaurant,34.0099008,-84.57485980000001,GA
-Fuji Hana & Thai Peppers,Asian Restaurant,34.01391512363181,-84.56568480378455,GA
+Fuji Hana & Thai Peppers,Thai Restaurant,34.01391512363181,-84.56568480378455,GA
 Asian Fusion,Asian Restaurant,33.993294291005625,-84.59911345568456,GA
 Pacific Buffet,Asian Restaurant,34.015719210735895,-84.55488110383676,GA
 Fire Stone Chinese Cuisine,Chinese Restaurant,34.005817,-84.57565,GA
@@ -1514,8 +1514,8 @@ Il Mee Korean Restaurant,Korean Restaurant,33.97626140748056,-84.54658875241726,
 Volcano Steak & Sushi,Japanese Restaurant,34.00017836472451,-84.59160268227211,GA
 Sushiology,Japanese Restaurant,33.994693832739195,-84.59247102043356,GA
 Li's Asian Cuisine,Chinese Restaurant,33.94726491435158,-84.62269042977007,GA
-New China House,Asian Restaurant,33.970063412345894,-84.53887962218131,GA
-Boru Ramen Noodle & Poke Bar,Asian Restaurant,34.01303965690194,-84.56353144061012,GA
+New China House,Chinese Restaurant,33.970063412345894,-84.53887962218131,GA
+Boru Ramen Noodle & Poke Bar,Japanese Restaurant,34.01303965690194,-84.56353144061012,GA
 asian express,Asian Restaurant,34.02086446143059,-84.61037766072297,GA
 Tin drum,Asian Restaurant,34.013224415811045,-84.55358849759125,GA
 Hibachi Grill & Supreme Buffet,Asian Restaurant,34.021575299915966,-84.56465096674329,Georgia
@@ -1547,7 +1547,7 @@ Tasty China,Chinese Restaurant,33.93870399458685,-84.50667899921558,GA
 House Of Ming,Chinese Restaurant,33.98025155408249,-84.4633763624389,GA
 Lemon Grass,Thai Restaurant,33.96855214904559,-84.49179337232542,GA
 Bamboo China Bistro,Chinese Restaurant,33.98546519324823,-84.42222089957257,GA
-Panda Express,Asian Restaurant,33.984820910243975,-84.4263396612662,GA
+Panda Express,Chinese Restaurant,33.984820910243975,-84.4263396612662,GA
 Red Curry Thai,Thai Restaurant,33.965528365828334,-84.41389791004374,GA
 Chopsticks China Bistro,Chinese Restaurant,33.97769410209689,-84.44019779514004,GA
 Hong Kong Star,Chinese Restaurant,33.96595703580123,-84.41469184402835,GA
@@ -1558,7 +1558,7 @@ Tofu Village Korean BBQ,Korean Restaurant,33.99663180959396,-84.52850929261147,G
 Atlantic Buffet,Chinese Restaurant,33.94550180346931,-84.51875354560296,GA
 Mings Kitchen,Asian Restaurant,33.965306,-84.415772,GA
 Em Kitchen Asian Cuisine,Asian Restaurant,33.985455,-84.422066,GA
-Fuji Hana,Asian Restaurant,34.02669686147217,-84.42237096643086,GA
+Fuji Hana,Japanese Restaurant,34.02669686147217,-84.42237096643086,GA
 Buddha's Delight,Chinese Restaurant,34.01664315966042,-84.49374655025773,GA
 China Kitchen,Chinese Restaurant,33.93983640714779,-84.50884625314879,GA
 China House,Chinese Restaurant,33.97574262967478,-84.47888483062427,GA
@@ -1574,13 +1574,13 @@ Katana Teppanyaki & Sushi,Asian Restaurant,33.84610430762774,-84.35885591066038,
 Tomo,Asian Restaurant,33.8546354089527,-84.35853858555082,GA
 Ru San's,Asian Restaurant,33.847009247336835,-84.37251807292095,GA
 Wokdragon,Chinese Restaurant,33.84529158227999,-84.3611806456471,GA
-Sarku Japan,Asian Restaurant,33.84558343432,-84.3613847608662,GA
+Sarku Japan,Japanese Restaurant,33.84558343432,-84.3613847608662,GA
 Lee's Golden Buddha & Mo Mo Ya,Japanese Restaurant,33.859660264347966,-84.3798670395345,GA
 Yumbii,Asian Restaurant,33.845330503700346,-84.3684546127269,GA
 Annie's Thai Castle,Thai Restaurant,33.84222790120453,-84.37866761475844,GA
 Sushi Bar Yu-Ka,Japanese Restaurant,33.84547034002613,-84.37381255828974,GA
 Taka Sushi and Passion,Japanese Restaurant,33.881852,-84.381116,GA
-Phoenix And Dragon Wings And Chinese Restaraunt,Chinese Restaurant,33.87780556565214,-84.38145477486303,GA
+Phoenix And Dragon Wings And Chinese Restaraunt,Vietnamese Restaurant,33.87780556565214,-84.38145477486303,GA
 Nova Sushi,Japanese Restaurant,33.85272938766318,-84.3583868776567,GA
 Cafe Supreme,Asian Restaurant,33.845565815924104,-84.3614675389414,GA
 Upper Room,Asian Restaurant,33.85468,-84.358308,GA
@@ -1599,10 +1599,10 @@ Pho Dai Viet Restaurant,Vietnamese Restaurant,33.871574,-84.379456,GA
 Pacific Grille,Korean Restaurant,33.845566,-84.361361,GA
 Jinya Ramen Bar,Japanese Restaurant,33.85661843873709,-84.38284609907183,GA
 The One Sushi +,Asian Restaurant,33.86114258194967,-84.33200619611539,GA
-Pho Dai Loi 2,Asian Restaurant,33.86514532605898,-84.30489897784675,GA
+Pho Dai Loi 2,Vietnamese Restaurant,33.86514532605898,-84.30489897784675,GA
 Dragon Express,Chinese Restaurant,33.86200155442291,-84.33924191576597,GA
 Chin Chin,Chinese Restaurant,33.85671599635186,-84.34380268477383,GA
-Mint Chinese & Thai Cuisine,Asian Restaurant,33.86746943120026,-84.30911595610726,GA
+Mint Chinese & Thai Cuisine,Thai Restaurant,33.86746943120026,-84.30911595610726,GA
 Bua Thai & Sushi,Thai Restaurant,33.86996663099669,-84.33616667397307,GA
 Nam Phuong,Vietnamese Restaurant,33.861269253111324,-84.3079345243711,GA
 Tanaka Ramen,Japanese Restaurant,33.869308135348994,-84.33504524058866,GA
@@ -1619,9 +1619,9 @@ Pho Viet,Vietnamese Restaurant,33.86759602385875,-84.30214938376523,GA
 Poke Bar,Asian Restaurant,33.935504099390926,-84.37866504424284,GA
 Canton Cooks,Chinese Restaurant,33.918553545938806,-84.38169935773459,GA
 Wok & Roll - Fountain Oaks,Chinese Restaurant,33.88880313252574,-84.38230357975237,GA
-Panda Express,Asian Restaurant,33.90659072061372,-84.37903354871798,GA
+Panda Express,Chinese Restaurant,33.90659072061372,-84.37903354871798,GA
 Bangkok Thyme,Thai Restaurant,33.8901435274455,-84.38100892680268,GA
-Jinya Ramen Bar,Asian Restaurant,33.91833287901602,-84.37752757773931,GA
+Jinya Ramen Bar,Japanese Restaurant,33.91833287901602,-84.37752757773931,GA
 Little Thai Cuisine,Thai Restaurant,33.92569578925884,-84.38338476003864,GA
 Sushi Nami Too,Japanese Restaurant,33.907831377379075,-84.36365258419119,GA
 China Cooks,Chinese Restaurant,33.910534656407684,-84.37997973893538,GA
@@ -1630,7 +1630,7 @@ Thai Restaurant Sandy Springs,Thai Restaurant,33.91829648078523,-84.377271905072
 GENKI Noodles and Sushi - Prado,Japanese Restaurant,33.90750604777323,-84.38051209011913,GA
 Blue Grotto Sushi Tapas & Bar,Japanese Restaurant,33.92550572920445,-84.3834913584879,GA
 Tin Drum Asian Kitchen - Sandy Springs,Asian Restaurant,33.91490240955263,-84.37963654293571,GA
-Pho 24,Asian Restaurant,33.919261,-84.378782,GA
+Pho 24,Vietnamese Restaurant,33.919261,-84.378782,GA
 China One International Buffet,Chinese Restaurant,33.91827264961868,-84.37763719597154,GA
 Tasty China,Chinese Restaurant,33.888902,-84.382962,GA
 Joy Thai Restaurant,Thai Restaurant,33.91826570034027,-84.3773227930069,GA
@@ -1646,17 +1646,17 @@ Iron Age,Korean Restaurant,33.9079,-84.38033,GA
 Hopstix,Asian Restaurant,33.89074719895576,-84.30288197993836,GA
 Tin Drum Asian Kitchen - Perimeter Place,Asian Restaurant,33.929378,-84.343649,GA
 Lan Zhou Restaurant,Asian Restaurant,33.89081339116625,-84.29985343508386,GA
-China Town Food Court,Asian Restaurant,33.89070450524306,-84.29983516000993,GA
-Hong Kong BBQ,Asian Restaurant,33.89076066780803,-84.29981491578691,GA
+China Town Food Court,Chinese Restaurant,33.89070450524306,-84.29983516000993,GA
+Hong Kong BBQ,Chinese Restaurant,33.89076066780803,-84.29981491578691,GA
 P.F. Chang's,Asian Restaurant,33.93284331533945,-84.33927297592169,GA
 Oriental Pearl Seafood Restaurant,Asian Restaurant,33.89123446592215,-84.29960872081664,GA
-Wild Ginger Thai Cuisine,Asian Restaurant,33.91935611623298,-84.29823861971958,GA
+Wild Ginger Thai Cuisine,Thai Restaurant,33.91935611623298,-84.29823861971958,GA
 Chong Qing Hot Pot,Chinese Restaurant,33.890747500439936,-84.29985237523483,GA
 Lucky China,Chinese Restaurant,33.92303526402004,-84.31478670678726,GA
 Sarku Japan,Japanese Restaurant,33.92399417452623,-84.34111977507511,GA
 Taki Japanese Steakhouse,Japanese Restaurant,33.931432067836155,-84.3325508542085,GA
 Sushi Yoshino,Japanese Restaurant,33.89241356510281,-84.32549710427428,GA
-Chinatown Buffet,Asian Restaurant,33.898039556436096,-84.30321833502538,GA
+Chinatown Buffet,Chinese Restaurant,33.898039556436096,-84.30321833502538,GA
 Takorea,Korean Restaurant,33.92188413886249,-84.31468620865651,GA
 Top One Gourmet,Asian Restaurant,33.890687227249146,-84.29984986782074,GA
 Chopsticks II,Asian Restaurant,33.927839770126674,-84.31132734702632,GA
@@ -1675,7 +1675,7 @@ Yuzu Sushi,Japanese Restaurant,33.888403,-84.309374,GA
 Hanwoori Korean and Japanese Restaurant,Korean Restaurant,33.917639,-84.298187,GA
 Wing's Korea,Korean Restaurant,33.891803,-84.296229,GA
 Food Terminal,Asian Restaurant,33.887573070927594,-84.28779806008615,GA
-Panda Express,Asian Restaurant,33.84613419933177,-84.25498090596778,GA
+Panda Express,Chinese Restaurant,33.84613419933177,-84.25498090596778,GA
 Canton House Chinese Restaurant,Chinese Restaurant,33.88261219748068,-84.28951838898655,GA
 Hunan Inn,Chinese Restaurant,33.88335910577634,-84.2443815059305,GA
 Lucky Key,Chinese Restaurant,33.84542992456784,-84.24980750811655,GA
@@ -1686,8 +1686,8 @@ Phở Bắc,Vietnamese Restaurant,33.88469065278983,-84.28800131125543,GA
 Dish Korean Cuisine,Korean Restaurant,33.88771548381465,-84.28797402216318,GA
 Pho 24,Vietnamese Restaurant,33.877427879602465,-84.29307430040058,GA
 Mandarin Express,Asian Restaurant,33.85099618638304,-84.25458212890771,GA
-Coco's Chinese Restaurant,Asian Restaurant,33.884715783333334,-84.28813383760625,GA
-Mama’s Teriyaki,Asian Restaurant,33.885094,-84.257465,GA
+Coco's Chinese Restaurant,Chinese Restaurant,33.884715783333334,-84.28813383760625,GA
+Mama’s Teriyaki,Japanese Restaurant,33.885094,-84.257465,GA
 Penang,Asian Restaurant,33.884537229939625,-84.28765160568295,GA
 Hop Shing,Chinese Restaurant,33.86268631060472,-84.28794462629452,GA
 Red Bowl Asian Bistro,Chinese Restaurant,33.84510277680843,-84.25141211545909,GA
@@ -1712,14 +1712,14 @@ Mini Hot Pot,Asian Restaurant,33.88419611211055,-84.28754072497853,GA
 Taiwan Special Yong He Zhi Jia (永和之家),Chinese Restaurant,33.88476785660304,-84.28814749025513,GA
 Golden BBQ Restaurant,Chinese Restaurant,33.884716,-84.28801,GA
 Heart of India Restaurant,Indo-Pak Restaurant,33.88582526667097,-84.25709009170532,GA
-L'Thai Organic Cuisine & Wine Bar,Asian Restaurant,33.867210148232935,-84.1915174405374,GA
+L'Thai Organic Cuisine & Wine Bar,Thai Restaurant,33.867210148232935,-84.1915174405374,GA
 Vien Huong,Asian Restaurant,33.883488318879266,-84.19313104926142,Georgia
 Main Moon,Chinese Restaurant,33.85238613211163,-84.20685905400596,GA
 Yum Yum Thai,Thai Restaurant,33.84964075139451,-84.21935285080909,GA
 Kochi Sushi & Hibachi,Japanese Restaurant,33.85530170448465,-84.20980617375382,GA
-Extreme Teriyaki Grill Express,Asian Restaurant,33.85587998337695,-84.20631794958966,GA
-China King,Asian Restaurant,33.88338034169833,-84.21857292851371,GA
-King Dragon Chinese Restaurant,Asian Restaurant,33.885567,-84.19307,GA
+Extreme Teriyaki Grill Express,Japanese Restaurant,33.85587998337695,-84.20631794958966,GA
+China King,Chinese Restaurant,33.88338034169833,-84.21857292851371,GA
+King Dragon Chinese Restaurant,Chinese Restaurant,33.885567,-84.19307,GA
 China Star Restaurant,Chinese Restaurant,33.86658,-84.186388,GA
 Tin Tin Chinese,Chinese Restaurant,33.84555558391408,-84.201293762569,GA
 Golden Sun,Chinese Restaurant,33.85531995000905,-84.20829210633626,GA
@@ -1731,7 +1731,7 @@ Bo Bo Garden Asian Cuisine,Asian Restaurant,33.89355195493394,-84.28308854257041
 Ming's BBQ,Asian Restaurant,33.89302673690681,-84.28588285387349,GA
 BBQ Corner II (金利來餐廳),Asian Restaurant,33.89259805897861,-84.2847439874372,GA
 Man Chun Hong,Asian Restaurant,33.91309173516898,-84.26205375713373,GA
-LanZhouRamen,Chinese Restaurant,33.89489911565203,-84.28209041734026,GA
+LanZhouRamen,Japanese Restaurant,33.89489911565203,-84.28209041734026,GA
 Dim Sum Heaven,Asian Restaurant,33.895133,-84.281797,GA
 Northern China Eatery,Chinese Restaurant,33.89271284246601,-84.2837945544549,GA
 Yen Jing,Chinese Restaurant,33.89722750711233,-84.28158279717509,GA
@@ -1740,7 +1740,7 @@ Shoya Izakaya,Japanese Restaurant,33.90811736793895,-84.2866501747301,GA
 Quoc Huong Banh Mi Fast Food,Vietnamese Restaurant,33.89291892360404,-84.28513759360604,GA
 Little Sheep Hot Pot,Chinese Restaurant,33.89146498789764,-84.28560942056315,GA
 Sushi Hayakawa,Japanese Restaurant,33.91347011377682,-84.26135692964938,GA
-China Panda,Asian Restaurant,33.931993189835055,-84.26500327803545,GA
+China Panda,Chinese Restaurant,33.931993189835055,-84.26500327803545,GA
 Batavia (Indonesian) Restaurant,Asian Restaurant,33.896456585774025,-84.2851561470105,GA
 Kura Revolving Sushi Bar,Japanese Restaurant,33.90815885509197,-84.28724280180249,GA
 Tempo Doeloe,Asian Restaurant,33.891562058273955,-84.28566106852375,GA
@@ -1748,17 +1748,17 @@ Kochi Maru,Chinese Restaurant,33.908461080473266,-84.26631181739924,GA
 Kang Nam,Japanese Restaurant,33.9068516997369,-84.26904618148257,GA
 Sushi Yoko,Japanese Restaurant,33.93076210649486,-84.26326555047127,GA
 Woo Nam Jeong Stone Bowl,Korean Restaurant,33.913137105928804,-84.26204448028092,GA
-Hong Kong Bakery,Asian Restaurant,33.8935832970437,-84.28536885314892,GA
+Hong Kong Bakery,Chinese Restaurant,33.8935832970437,-84.28536885314892,GA
 "Rold Rite Sushi, by Bumblefish Atlanta, LLC",Asian Restaurant,33.910096,-84.282628,GA
 Orient Garden,Asian Restaurant,33.89637324669494,-84.25058046657871,GA
 Phil-Am Star Cafe Philippine Cuisine Restaurant,Asian Restaurant,33.893210268041074,-84.28481221041076,GA
 Jing Jin Restaurant,Asian Restaurant,33.892836252582285,-84.28363496995469,GA
 HongKong Cuisine,Asian Restaurant,33.908064064834335,-84.28769095336462,GA
-China Village Restaurant,Asian Restaurant,33.910311303537085,-84.26601470189624,GA
-Pung Mie Chinese Restaurant,Asian Restaurant,33.89375822887349,-84.28346018117209,GA
-Bon Ga Korean Restaurant,Asian Restaurant,33.91915944917306,-84.25650571145415,GA
-Beijing House,Asian Restaurant,33.90762570449258,-84.28786039352417,GA
-Tairyou Japanese Restaurant,Asian Restaurant,33.91305948213097,-84.26156639098768,Georgia
+China Village Restaurant,Chinese Restaurant,33.910311303537085,-84.26601470189624,GA
+Pung Mie Chinese Restaurant,Chinese Restaurant,33.89375822887349,-84.28346018117209,GA
+Bon Ga Korean Restaurant,Korean Restaurant,33.91915944917306,-84.25650571145415,GA
+Beijing House,Chinese Restaurant,33.90762570449258,-84.28786039352417,GA
+Tairyou Japanese Restaurant,Japanese Restaurant,33.91305948213097,-84.26156639098768,Georgia
 Champion  Snack House,Asian Restaurant,33.9081594,-84.2877249,GA
 Bei Jing Kabobs,Asian Restaurant,33.89138773223193,-84.28562540172459,GA
 The Ocean Villa Asian Cuisine,Asian Restaurant,33.89261716,-84.2838745,GA
@@ -1817,10 +1817,10 @@ Yebisuya,Japanese Restaurant,33.908139586396715,-84.28710387645022,GA
 Good Luck Gourmet【御膳房】中餐馆,Chinese Restaurant,33.909125157729676,-84.2693500648814,GA
 Tea House Formosa,Chinese Restaurant,33.89714892422307,-84.2816662487788,GA
 Cafe 101,Chinese Restaurant,33.90007007628373,-84.27835509361985,GA
-China Hot Pot Buffet,Asian Restaurant,33.891403,-84.28581,GA
+China Hot Pot Buffet,Chinese Restaurant,33.891403,-84.28581,GA
 Tasty 21,Asian Restaurant,33.897394638788285,-84.26146867869024,GA
 Chi Chop,Chinese Restaurant,33.908817,-84.288284,GA
-KoKai Thai Bistro,Asian Restaurant,33.907687023606286,-84.20452146265355,GA
+KoKai Thai Bistro,Thai Restaurant,33.907687023606286,-84.20452146265355,GA
 Bento Cafe,Asian Restaurant,33.90981058252455,-84.20430518063218,GA
 Chow King,Asian Restaurant,33.932096946070786,-84.17977352406662,GA
 Hibachi Grill Supreme Buffet,Chinese Restaurant,33.902487375145625,-84.2029971185951,GA
@@ -1829,8 +1829,8 @@ Siamese Basil,Thai Restaurant,33.89908077515071,-84.20674142811407,GA
 Taste of Thai,Thai Restaurant,33.917192301091454,-84.20780657244549,GA
 홍콩 뷔페,Asian Restaurant,33.92154348653441,-84.21162480311808,GA
 Asian Bistro,Asian Restaurant,33.909667,-84.204148,GA
-Wong Kee BBQ Peking Duck,Asian Restaurant,33.90983170509236,-84.20423195788246,GA
-Hong Kong King Buffet,Asian Restaurant,33.921583062967166,-84.21076917781927,GA
+Wong Kee BBQ Peking Duck,Chinese Restaurant,33.90983170509236,-84.20423195788246,GA
+Hong Kong King Buffet,Chinese Restaurant,33.921583062967166,-84.21076917781927,GA
 Yogo Tea,Asian Restaurant,33.90736544948233,-84.20684299393768,GA
 Nam Phuong Restaurant,Vietnamese Restaurant,33.90993313396513,-84.20452228555166,GA
 Chinese Dhaba,Chinese Restaurant,33.91440743661091,-84.20752168954412,GA
@@ -1852,7 +1852,7 @@ Pho Dai Nam,Vietnamese Restaurant,33.907692,-84.204714,GA
 Phở Xe Lửa,Vietnamese Restaurant,33.90868530594488,-84.20425057411194,GA
 Bonga Sullungtang,Korean Restaurant,33.933839,-84.21711571,GA
 Circle Sushi,Asian Restaurant,33.995467561882954,-84.3500487985787,GA
-Thai House,Asian Restaurant,34.0316859749161,-84.35041521039938,GA
+Thai House,Thai Restaurant,34.0316859749161,-84.35041521039938,GA
 Enzo,Asian Restaurant,33.98684139882232,-84.35130203990833,GA
 Canton Cook II,Chinese Restaurant,33.937447026380354,-84.38046818484625,GA
 Rasa Sayang,Asian Restaurant,34.01928567955227,-84.31901891986031,GA
@@ -1862,7 +1862,7 @@ Rice Thai Cuisine,Thai Restaurant,34.02875554101955,-84.36169684933658,GA
 Erawan Organic Thai,Thai Restaurant,33.961517462396145,-84.36440471355593,GA
 Zest Sushi & Tapas Bar,Japanese Restaurant,34.02466,-84.36125,GA
 Sakura,Japanese Restaurant,33.96574018518914,-84.41056451324835,GA
-Com Dunwoody Vietnamese Grill,Asian Restaurant,33.9477307785623,-84.33708183612757,GA
+Com Dunwoody Vietnamese Grill,Vietnamese Restaurant,33.9477307785623,-84.33708183612757,GA
 Tokyo Boat,Japanese Restaurant,34.01963462256143,-84.32062080296743,GA
 Singha Thai,Thai Restaurant,33.95021181957235,-84.33739106080779,GA
 Gyro & Teryaki,Asian Restaurant,33.93689522312677,-84.37786803887279,GA
@@ -1876,7 +1876,7 @@ Food & Beverage Training Resources,Asian Restaurant,33.98316790000001,-84.348691
 Fú Express,Asian Restaurant,34.019383,-84.313217,GA
 Asian Cafe,Asian Restaurant,33.95821880038607,-84.30336904288495,GA
 Home Taste East Cobb,Asian Restaurant,33.960711,-84.403416,GA
-North Peking: Super Chinese Restaurant,Asian Restaurant,33.98663426753687,-84.3511743252202,GA
+North Peking: Super Chinese Restaurant,Chinese Restaurant,33.98663426753687,-84.3511743252202,GA
 Nyonya Asian,Asian Restaurant,33.954015710557684,-84.36658086445823,GA
 Chin Chin Express,Chinese Restaurant,33.981322,-84.350729,GA
 Happiness,Chinese Restaurant,34.016186,-84.309439,GA
@@ -1910,7 +1910,7 @@ Kampai,Japanese Restaurant,34.01855194963362,-84.19286247662495,GA
 SushiMito,Japanese Restaurant,33.96711846790691,-84.26058664343056,GA
 Happy Sumo – Norcross,Japanese Restaurant,33.95307141148778,-84.23492944493724,GA
 Sushi Uchi,Japanese Restaurant,33.985333121596895,-84.27064876878318,GA
-The Pearl Chinese & Thai,Chinese Restaurant,34.022653168192,-84.27060679806308,GA
+The Pearl Chinese & Thai,Thai Restaurant,34.022653168192,-84.27060679806308,GA
 Wok N Roll,Chinese Restaurant,33.953090119053805,-84.23535221029711,GA
 Lon U,Chinese Restaurant,33.98663879927626,-84.21229868471623,GA
 Kokos Sushi,Japanese Restaurant,34.02652732624809,-84.25152947118167,GA
@@ -1918,14 +1918,14 @@ Aomi Japanese Steakhouse,Japanese Restaurant,33.98287069842443,-84.2161604321787
 Sushi Mania,Japanese Restaurant,34.02331749440006,-84.25175836170439,GA
 UFO Hibachi Express,Asian Restaurant,34.015286,-84.190182,GA
 Hibachi,Asian Restaurant,33.9626552194376,-84.20739042489751,GA
-Hong Kong : Chinese Take-out,Asian Restaurant,33.96799638722338,-84.26058926079064,GA
+Hong Kong : Chinese Take-out,Chinese Restaurant,33.96799638722338,-84.26058926079064,GA
 JW asian cuisine,Asian Restaurant,33.954427,-84.243694,Georgia
-Lin's Chinese Restaurant,Asian Restaurant,34.01765236255726,-84.18932873219806,GA
-Sushi Sumo,Asian Restaurant,34.02049768614211,-84.27348040116456,GA
+Lin's Chinese Restaurant,Chinese Restaurant,34.01765236255726,-84.18932873219806,GA
+Sushi Sumo,Japanese Restaurant,34.02049768614211,-84.27348040116456,GA
 Beechwood's Residence,Asian Restaurant,33.94937956801579,-84.18280976979518,GA
 Kan Pai Cafe,Asian Restaurant,33.95453,-84.243397,Georgia
 Chaba Thai,Thai Restaurant,34.01822436627022,-84.19147364747607,GA
-China Panda,Asian Restaurant,33.965914,-84.176908,GA
+China Panda,Chinese Restaurant,33.965914,-84.176908,GA
 Bull Gogi,Korean Restaurant,33.96967135879066,-84.2193022647121,GA
 Sushi Osawa,Japanese Restaurant,33.97611255236435,-84.21767818180915,Georgia
 China Heaven,Chinese Restaurant,33.99118942013956,-84.27525397740544,GA
@@ -1950,7 +1950,7 @@ Koko's Japanese Restaurant,Japanese Restaurant,34.02554,-84.251511,GA
 Dine Japan Group,Japanese Restaurant,33.967799,-84.259031,GA
 Animal House,Asian Restaurant,33.960927788738786,-84.24202680587769,GA
 Merion Bistro @ AAC,Asian Restaurant,34.003821,-84.192552,GA
-Aku  Sushi Ramen,Asian Restaurant,34.015575,-84.190432,GA
+Aku  Sushi Ramen,Japanese Restaurant,34.015575,-84.190432,GA
 Oscars Asian Grill and Sushi Bar,Japanese Restaurant,34.024109,-84.251992,GA
 Emiko's Sushi and Grill,Japanese Restaurant,33.984578,-84.213257,GA
 Sushi City,Japanese Restaurant,34.017894,-84.189758,GA
@@ -1963,13 +1963,13 @@ Pho Queen,Vietnamese Restaurant,33.950483897247075,-84.2407603380354,GA
 Hae Woon Dae Restaurant,Korean Restaurant,33.979412595655475,-84.20949388268953,GA
 Izumi Asian Bistro,Asian Restaurant,34.10853233326347,-84.55226610820652,GA
 Chopstix Sushi House Asian Fusion,Asian Restaurant,34.06230325671747,-84.422409211119,GA
-Saigon Cafe Woodstock,Asian Restaurant,34.08890133304144,-84.48338508619547,GA
-Panda Express,Asian Restaurant,34.087016189012175,-84.48263848481722,GA
+Saigon Cafe Woodstock,Vietnamese Restaurant,34.08890133304144,-84.48338508619547,GA
+Panda Express,Chinese Restaurant,34.087016189012175,-84.48263848481722,GA
 Happy China,Chinese Restaurant,34.08689899624285,-84.51959116096697,GA
 Song's Garden,Chinese Restaurant,34.12716964888462,-84.57170268876675,GA
-Teriyaki Madness,Asian Restaurant,34.034344,-84.46546,GA
-Panda Express,Asian Restaurant,34.122621883490446,-84.52504824812218,GA
-Peking & Tokyo Restaurant,Asian Restaurant,34.11146617661242,-84.5587287776915,GA
+Teriyaki Madness,Japanese Restaurant,34.034344,-84.46546,GA
+Panda Express,Chinese Restaurant,34.122621883490446,-84.52504824812218,GA
+Peking & Tokyo Restaurant,Japanese Restaurant,34.11146617661242,-84.5587287776915,GA
 Shangrila Bistro,Asian Restaurant,34.03772580177268,-84.52850209952057,GA
 Panda Express,Chinese Restaurant,34.03572992046756,-84.57253480003727,GA
 Bangkok Cabin,Thai Restaurant,34.03645025619268,-84.6057153466272,GA
@@ -1990,16 +1990,16 @@ China Dynasty,Chinese Restaurant,34.037858169338676,-84.46483817679501,GA
 Takeya Sushi & Hibachi,Japanese Restaurant,34.12904372494382,-84.49951962300413,GA
 China Wok,Chinese Restaurant,34.17960920530094,-84.54965688027752,GA
 Happy China,Chinese Restaurant,34.08796503520105,-84.46820316252011,GA
-China Bay III,Asian Restaurant,34.087802,-84.468152,GA
+China Bay III,Chinese Restaurant,34.087802,-84.468152,GA
 chao praya,Asian Restaurant,34.1200065612793,-84.52643585205078,GA
 siagon Cafe,Asian Restaurant,34.08932014167973,-84.47681989145653,GA
-Happy Panda,Asian Restaurant,34.062001514271266,-84.59122630553381,GA
-Volcano House Chinese & Thai,Asian Restaurant,34.1889,-84.51228900000001,GA
+Happy Panda,Chinese Restaurant,34.062001514271266,-84.59122630553381,GA
+Volcano House Chinese & Thai,Thai Restaurant,34.1889,-84.51228900000001,GA
 Hibachi Buffet,Asian Restaurant,34.19488698825609,-84.50852377682888,GA
 Mandarin Cafe,Chinese Restaurant,34.04873694022604,-84.60120723904076,GA
 Mizu,Japanese Restaurant,34.17053241072241,-84.41696038353135,GA
-Okko Ramen,Asian Restaurant,34.03980357289244,-84.46131204506618,GA
-New China Buffet,Asian Restaurant,34.087279103601624,-84.52069660124899,GA
+Okko Ramen,Japanese Restaurant,34.03980357289244,-84.46131204506618,GA
+New China Buffet,Chinese Restaurant,34.087279103601624,-84.52069660124899,GA
 China Wok,Chinese Restaurant,34.04949971942932,-84.6110152619096,GA
 Hong Kong Chinese,Chinese Restaurant,34.05563641983677,-84.55434426366826,GA
 Golden House,Chinese Restaurant,34.141308,-84.50453,GA
@@ -2032,16 +2032,16 @@ Pho 92 Vietnamese Cuisine,Vietnamese Restaurant,34.088074,-84.46817,GA
 KPOP Korean Barbecue,Korean Restaurant,34.108251,-84.55301,GA
 Vuu Asian Bistro,Asian Restaurant,34.06037670341754,-84.38742307717821,GA
 Hibachi Express,Asian Restaurant,34.070707985931854,-84.29471054417573,GA
-Pho & Com,Asian Restaurant,34.061962115146066,-84.38808125448291,GA
-Thai Emerald,Asian Restaurant,34.055535887449,-84.37846594166909,GA
+Pho & Com,Vietnamese Restaurant,34.061962115146066,-84.38808125448291,GA
+Thai Emerald,Thai Restaurant,34.055535887449,-84.37846594166909,GA
 P.F. Chang's,Asian Restaurant,34.0387046233986,-84.30716961622238,GA
 Tin Drum Asian Kitchen,Asian Restaurant,34.044146,-84.34124,GA
 Epicures Of Asia,Asian Restaurant,34.06102661951958,-84.38477949849792,GA
 China Garden,Chinese Restaurant,34.03358450803808,-84.34182757289442,GA
-Tokyo Boat,Asian Restaurant,34.06126308189953,-84.38913947934518,GA
+Tokyo Boat,Japanese Restaurant,34.06126308189953,-84.38913947934518,GA
 Spice of Thai,Thai Restaurant,34.033640132555696,-84.34004686916758,GA
 Tanaka,Japanese Restaurant,34.05441597465296,-84.32885369426786,GA
-Panda Express,Asian Restaurant,34.05966627601409,-84.38708529060342,GA
+Panda Express,Chinese Restaurant,34.05966627601409,-84.38708529060342,GA
 Sake Japanese Steak & Sushi,Japanese Restaurant,34.063161883827476,-84.39930314093058,GA
 Benihana,Japanese Restaurant,34.03719365447164,-84.30565972772871,GA
 Fish Bowl Asian Bistro,Asian Restaurant,34.04721,-84.362097,GA
@@ -2063,21 +2063,21 @@ Toms Rock n Roll Sushi,Japanese Restaurant,34.03430303709922,-84.34565171604845,
 Ajima Asian Sushi & Bar,Japanese Restaurant,34.07349,-84.36267256736755,GA
 Pho Roswell,Vietnamese Restaurant,34.055533,-84.380833,GA
 Chow Baby,Korean Restaurant,34.07676,-84.296751,GA
-Sushi Nami Japanese Restaurant,Asian Restaurant,34.088730569430474,-84.27168465610984,GA
-Lin's Chinese Cuisine,Asian Restaurant,34.09582807555877,-84.2791156875547,GA
+Sushi Nami Japanese Restaurant,Japanese Restaurant,34.088730569430474,-84.27168465610984,GA
+Lin's Chinese Cuisine,Chinese Restaurant,34.09582807555877,-84.2791156875547,GA
 Volcano Asian Bistro,Asian Restaurant,34.08874072475042,-84.27178252954687,GA
 Simon's Chinese Cuisine,Chinese Restaurant,34.06069271374666,-84.24467827900787,GA
 Sunshine II Chinese Restaurant,Chinese Restaurant,34.04991399209878,-84.22533412308275,GA
-Saigon Cafe Alpharetta,Asian Restaurant,34.089323,-84.264821,GA
+Saigon Cafe Alpharetta,Vietnamese Restaurant,34.089323,-84.264821,GA
 Wok & Chopstick,Chinese Restaurant,34.11082747609097,-84.21946207631574,GA
 Panda Express,Chinese Restaurant,34.09126190780808,-84.27541601781864,GA
 Nahm Thai Cuisine,Thai Restaurant,34.08948709571083,-84.27205187595959,GA
-Dynasty Chinese Restaurant,Indo-Pak Restaurant,34.0477156231682,-84.22080010327795,GA
+Dynasty Chinese Restaurant,Chinese Restaurant,34.0477156231682,-84.22080010327795,GA
 Thai²,Thai Restaurant,34.08812893976457,-84.26610782633512,GA
 Chad Thai,Thai Restaurant,34.10257,-84.26985,GA
 Super H Mart,Asian Restaurant,34.0453028351024,-84.17811705566825,GA
 Kani House Japanese Steakhouse & Sushi Bar,Japanese Restaurant,34.04622902865971,-84.17709255839253,GA
-Sarku Japan,Asian Restaurant,34.089706168069505,-84.27399165382734,GA
+Sarku Japan,Japanese Restaurant,34.089706168069505,-84.27399165382734,GA
 Ichiban Steak & Sushi,Japanese Restaurant,34.08911292273297,-84.27268729800798,GA
 Thai Thai,Thai Restaurant,34.061615177375764,-84.28945925478124,GA
 Teriyaki Grill House,Japanese Restaurant,34.06518360218943,-84.2488490679992,Georgia
@@ -2089,12 +2089,12 @@ Ming's Cafe,Chinese Restaurant,34.09556585303501,-84.27587179573881,GA
 Le Mekong Vietnamese Cuisine,Vietnamese Restaurant,34.04722415108845,-84.17890883235891,GA
 Superior Wok Restaurant,Chinese Restaurant,34.04457020122529,-84.2933249191332,GA
 Cafe Q,Chinese Restaurant,34.033814422329826,-84.18514353337794,GA
-New Saigon Vietnemese Bistro,Asian Restaurant,34.04512793921646,-84.17711153282598,GA
+New Saigon Vietnemese Bistro,Vietnamese Restaurant,34.04512793921646,-84.17711153282598,GA
 Bamboo Garden,Chinese Restaurant,34.05107333067144,-84.22472332266292,GA
 Ru San's,Japanese Restaurant,34.101854097265374,-84.26922520602655,GA
 Izumi,Asian Restaurant,34.09310632160575,-84.28002085017536,Georgia
 Sake House,Asian Restaurant,34.06519571,-84.25396889,GA
-China Buffet,Asian Restaurant,34.11754515640198,-84.27118255275296,GA
+China Buffet,Chinese Restaurant,34.11754515640198,-84.27118255275296,GA
 Hikari,Asian Restaurant,34.04502901882703,-84.17828830313,GA
 Joy Pizza N Joy Chicken,Asian Restaurant,34.045235,-84.17858,GA
 e.m. bop,Korean Restaurant,34.092839608825784,-84.28239779155933,GA
@@ -2158,7 +2158,7 @@ sho Asian,Asian Restaurant,34.199318932334016,-84.19552778169742,GA
 Pacific Spice,Asian Restaurant,34.17457769836478,-84.18596635443065,GA
 Ichiban Steak and Sushi,Japanese Restaurant,34.154521169067024,-84.17619183627716,GA
 Maki Sushi,Asian Restaurant,34.138485,-84.249115,GA
-China Kitchen,Asian Restaurant,34.14420833451818,-84.25033871229508,GA
+China Kitchen,Chinese Restaurant,34.14420833451818,-84.25033871229508,GA
 Jaz Chinese Cuisine,Chinese Restaurant,34.13469058003137,-84.24520294160328,GA
 Lilburn International Farmers Market,Asian Restaurant,33.894705088216135,-84.14214035776864,GA
 Happy China,Chinese Restaurant,33.88788404203799,-84.06247100651014,GA
@@ -2169,7 +2169,7 @@ Imperial Chinese Gardens,Chinese Restaurant,33.84371920651988,-84.13257191833004
 Sweet Basil Asian Kitchen,Asian Restaurant,33.840233,-84.13265,GA
 ATL PHO,Asian Restaurant,33.895645,-84.14107,GA
 Spicy Basil,Asian Restaurant,33.88776,-84.058266,GA
-Saigon Cafe,Asian Restaurant,33.90466856567693,-84.12032360852773,GA
+Saigon Cafe,Vietnamese Restaurant,33.90466856567693,-84.12032360852773,GA
 류가네,Asian Restaurant,33.92944248505873,-84.17351927934165,GA
 Sushi Gallery,Asian Restaurant,33.88777123424844,-84.05852072555255,GA
 New China,Chinese Restaurant,33.84045322569371,-84.13251887419528,GA
@@ -2191,8 +2191,8 @@ Anna's Room Of Noodle Poots,Asian Restaurant,33.894938751267276,-84.101532124412
 Sushi 101,Japanese Restaurant,33.92149395249724,-84.1694967298132,GA
 Pho Ga,Vietnamese Restaurant,33.92155,-84.16945,GA
 Lavender Asian Bistro,Asian Restaurant,33.90312311333466,-84.00494781235123,GA
-Sri Thai,Asian Restaurant,33.858208676858396,-84.01937784786892,GA
-Mah Jong Chinese Restaurant,Asian Restaurant,33.879043323878655,-84.01446327086566,GA
+Sri Thai,Thai Restaurant,33.858208676858396,-84.01937784786892,GA
+Mah Jong Chinese Restaurant,Chinese Restaurant,33.879043323878655,-84.01446327086566,GA
 Hibachi Buffet,Asian Restaurant,33.8684771958555,-84.01671356359485,GA
 Asian Express Sushi And Hibachi,Asian Restaurant,33.934756806202536,-84.02748206984047,GA
 Thai taste,Thai Restaurant,33.86255006876258,-83.95885487072812,GA
@@ -2207,11 +2207,11 @@ Kampai,Japanese Restaurant,33.89895292570866,-84.0052583713823,GA
 Pho.Com,Vietnamese Restaurant,33.899198369413625,-84.00433302699304,GA
 Mahjong,Asian Restaurant,33.87912821043839,-84.01419914117076,GA
 Yummy Yummy Deli,Asian Restaurant,33.854889,-83.998296,GA
-Teriyaki Grill,Asian Restaurant,33.93473,-83.95724,GA
+Teriyaki Grill,Japanese Restaurant,33.93473,-83.95724,GA
 Totori Fresh Grill & Sushi,Asian Restaurant,33.91946,-84.016143,GA
 ricebox,Asian Restaurant,33.92703209495057,-83.99761022546848,GA
 Asian Max,Asian Restaurant,33.856259247171664,-83.99845433277706,GA
-Like Pho,Asian Restaurant,33.898245785112316,-83.95957602423437,GA
+Like Pho,Vietnamese Restaurant,33.898245785112316,-83.95957602423437,GA
 Lao Street Foods,Asian Restaurant,33.93248,-83.976295,GA
 Hot N Cold Chinese Buffet,Chinese Restaurant,33.85780340335019,-84.01764191517324,GA
 Nagano Japanese Steakhouse and Sushi Bar,Japanese Restaurant,33.899011769653995,-83.96206444560661,GA
@@ -2234,16 +2234,16 @@ Cali Cafe,Asian Restaurant,33.922682,-84.0246125,GA
 Oni Japanese Steak House,Japanese Restaurant,33.86218,-83.95541,GA
 Cali Cafe Noodle house,Vietnamese Restaurant,33.92272233333333,-84.01650991666666,GA
 I Luv Pho,Vietnamese Restaurant,33.869462,-84.016804,GA
-I Luv Pho 2,Asian Restaurant,33.94293382404092,-84.15952188572997,GA
+I Luv Pho 2,Vietnamese Restaurant,33.94293382404092,-84.15952188572997,GA
 Sri Thai,Thai Restaurant,33.94164626991525,-84.16073698304649,GA
 I Luv Hotpot,Asian Restaurant,33.941772,-84.16028,GA
-SriThai {Thai kitchen & sushi bar,Asian Restaurant,33.94175783525992,-84.16106700897217,GA
+SriThai {Thai kitchen & sushi bar,Thai Restaurant,33.94175783525992,-84.16106700897217,GA
 Jade Dragon Carryout,Chinese Restaurant,33.941245,-84.163804,GA
 Jade Dragon Carryout,Indo-Pak Restaurant,33.94142799,-84.16424741,GA
 Mi La Cafe,Vietnamese Restaurant,33.942654,-84.15919,GA
 Super Grand Buffet,Asian Restaurant,33.945712458498356,-84.12437987263078,GA
-Saigon Cafe Duluth,Asian Restaurant,33.96012236013812,-84.13615842313993,GA
-Pho Dai Loi #3,Asian Restaurant,33.941823572068714,-84.12143766142681,GA
+Saigon Cafe Duluth,Vietnamese Restaurant,33.96012236013812,-84.13615842313993,GA
+Pho Dai Loi #3,Vietnamese Restaurant,33.941823572068714,-84.12143766142681,GA
 Mini Hot Pot 2,Asian Restaurant,33.959821571157214,-84.13484781206954,GA
 Assi Plaza,Asian Restaurant,33.94716033695705,-84.12369789892404,GA
 Dan Moo Ji,Asian Restaurant,33.95785361845068,-84.14097271584524,GA
@@ -2281,7 +2281,7 @@ Pho House,Vietnamese Restaurant,33.95725135866767,-84.13511544990756,Georgia
 Gogi House Korean BBQ,Korean Restaurant,33.95789865686565,-84.12795238216701,GA
 k factory bbq,Korean Restaurant,33.95085161036834,-84.14141669573362,GA
 Star Daepo Restaurant,Korean Restaurant,33.95982965000795,-84.13131621522973,GA
-Saigon Gourmet,Thai Restaurant,33.959628568994745,-84.1362190246582,GA
+Saigon Gourmet,Vietnamese Restaurant,33.959628568994745,-84.1362190246582,GA
 Chef Wong,Chinese Restaurant,33.960243,-84.131183,GA
 Zhang's Bbq Chicken,Chinese Restaurant,33.95213,-84.141396,GA
 Xi'an Gourmet House,Chinese Restaurant,33.951763,-84.14184,GA
@@ -2300,9 +2300,9 @@ Yuki Izakaya,Japanese Restaurant,33.960743,-84.13696,GA
 Sweet Ahi,Japanese Restaurant,33.95658155422803,-84.1412315369962,GA
 Izakaya Ma,Japanese Restaurant,33.954082,-84.13383,GA
 Taste of Pho,Vietnamese Restaurant,33.96071808512349,-84.13504421180325,GA
-Top Ramen,Asian Restaurant,33.960653,-84.133515,GA
-LZ Ramen House,Asian Restaurant,33.960582769968696,-84.1341423176942,GA
-Sedap Malaysian & Thai Cuisine,Asian Restaurant,33.947876975054406,-84.12388554148554,Georgia
+Top Ramen,Japanese Restaurant,33.960653,-84.133515,GA
+LZ Ramen House,Japanese Restaurant,33.960582769968696,-84.1341423176942,GA
+Sedap Malaysian & Thai Cuisine,Thai Restaurant,33.947876975054406,-84.12388554148554,Georgia
 Kaiten Sushi (sushi joy),Japanese Restaurant,33.960336,-84.125701,GA
 Sushi Hoshi,Japanese Restaurant,33.947513,-84.123727,GA
 Dokdo Sushi House,Japanese Restaurant,33.95688809060364,-84.13951740653604,GA
@@ -2336,7 +2336,7 @@ Uncle Zhu,Chinese Restaurant,33.95203,-84.141304,GA
 Pleasant BBQ Garden -- 粵㕵燒臘,Chinese Restaurant,33.946179,-84.124002,GA
 Jang Won Jung 장원정,Korean Restaurant,33.974893050515306,-84.16048478689063,GA
 Well Bean Tofu House,Korean Restaurant,33.97468554938688,-84.15793445833035,GA
-Shabu Shabu,Korean Restaurant,33.969607673709255,-84.14730564469615,GA
+Shabu Shabu,Japanese Restaurant,33.969607673709255,-84.14730564469615,GA
 Taste of China,Chinese Restaurant,33.974627,-84.158024,GA
 Tsing Tao B.B.Q,Chinese Restaurant,33.97734998520923,-84.16176505390709,GA
 Taipei Restaurant,Chinese Restaurant,33.97756,-84.161699,GA
@@ -2351,7 +2351,7 @@ Masterpiece Szechuan,Chinese Restaurant,33.97728770436585,-84.16211611999088,GA
 Xin's Chinese Cuisine,Chinese Restaurant,33.977500018633265,-84.1614779333502,GA
 Seo Ra Beol Restaurant,Asian Restaurant,33.963875612891165,-84.14196439914087,GA
 SunO Dessert,Asian Restaurant,33.96918010417987,-84.14503998751997,GA
-Great Wall Supermarket (大中華),Asian Restaurant,33.96353550483943,-84.13524293418273,GA
+Great Wall Supermarket (大中華),Chinese Restaurant,33.96353550483943,-84.13524293418273,GA
 TJ House Asian Cuisine  旺角,Asian Restaurant,33.9612984396726,-84.14458822655078,GA
 Gom Shabu Shabu,Japanese Restaurant,33.96135504209736,-84.13225096332843,GA
 Chicken & Beer (aka BBQ Chicken),Asian Restaurant,33.96614569137116,-84.13355235446723,GA
@@ -2419,15 +2419,15 @@ The Stone Grill,Korean Restaurant,33.969764125586856,-84.14380991736704,GA
 Tofu House,Korean Restaurant,33.969797830596114,-84.14469706666492,GA
 totowa,Korean Restaurant,33.966288,-84.133671,Georgia
 Manna Korean Snack Restaurant,Korean Restaurant,33.968881893139,-84.14463952694408,GA
-Shabu Shabu Plus,Korean Restaurant,33.96985,-84.144424,GA
+Shabu Shabu Plus,Japanese Restaurant,33.96985,-84.144424,GA
 Nulbom Restaurant,Korean Restaurant,33.969206,-84.143125,GA
 So Gong Dong,Korean Restaurant,33.961908813320846,-84.13515274123846,GA
 Sookdal BBQ,Asian Restaurant,33.969439,-84.143596,GA
 Sichuan Garden,Chinese Restaurant,33.96185184727762,-84.1348174511294,Georgia
 Sushi Misong,Japanese Restaurant,33.96307290393866,-84.13778979331254,GA
-Chinese Dhaba,Asian Restaurant,33.95745456212511,-84.11201678772667,GA
+Chinese Dhaba,Chinese Restaurant,33.95745456212511,-84.11201678772667,GA
 Golden Seven,Chinese Restaurant,33.978395360017025,-84.09385911167855,GA
-Thai Diner and Sushi,Asian Restaurant,33.9809168648621,-84.07832671053718,GA
+Thai Diner and Sushi,Thai Restaurant,33.9809168648621,-84.07832671053718,GA
 Panda Express,Chinese Restaurant,33.980982832173275,-84.08098277446561,GA
 Yami Japanese & Sushi,Japanese Restaurant,33.983625486998335,-84.08113712265478,GA
 Jade Dragon Wok-Out,Chinese Restaurant,33.95171592568317,-84.10250921905593,GA
@@ -2440,21 +2440,21 @@ Jade Dragon Wok-Out,Chinese Restaurant,33.956699,-84.1082,GA
 China Gate Chinese Restaurant,Chinese Restaurant,33.97636232877633,-84.09330682933215,GA
 Chopstixx,Chinese Restaurant,33.956891402673804,-84.0570977257063,GA
 Hong Kong,Chinese Restaurant,33.983447,-84.080798,GA
-Thai Diner,Japanese Restaurant,33.965945544773554,-84.06631726588719,GA
+Thai Diner,Thai Restaurant,33.965945544773554,-84.06631726588719,GA
 Noh Ryang Jin Sushi Yuki,Japanese Restaurant,33.975378701416716,-84.0932336526512,GA
 Sushi-Hiro,Japanese Restaurant,33.936928,-84.087863,GA
 Gobawoo BBQ,Korean Restaurant,33.975359077637,-84.09308151435529,GA
 Gobawoo,Korean Restaurant,33.977742,-84.092745,Georgia
 Emerald China,Chinese Restaurant,34.0059385823314,-84.17116032107268,GA
 Panda Garden Duluth,Chinese Restaurant,34.007422,-84.129611,GA
-Extreme Teriyaki Grill Express,Asian Restaurant,34.005280417826015,-84.17367043033371,GA
+Extreme Teriyaki Grill Express,Japanese Restaurant,34.005280417826015,-84.17367043033371,GA
 Wok Rock,Chinese Restaurant,34.00067787579502,-84.16909217834473,GA
 Panda Express,Chinese Restaurant,34.020744193768806,-84.12239867080515,GA
 Flying Roll Sushi,Japanese Restaurant,34.01425813193304,-84.16539823399673,GA
 Tokyo Shokudo,Japanese Restaurant,33.99781311571722,-84.16807264393871,GA
 Bang Ga Nae,Korean Restaurant,34.014479028132364,-84.16520153573708,GA
-Bud Namu Korean Restaurant,Asian Restaurant,34.00023833919095,-84.16904346786978,GA
-Chin Chin Chinese Restaurant Of Duluth,Asian Restaurant,33.98812484741211,-84.16937255859375,GA
+Bud Namu Korean Restaurant,Korean Restaurant,34.00023833919095,-84.16904346786978,GA
+Chin Chin Chinese Restaurant Of Duluth,Chinese Restaurant,33.98812484741211,-84.16937255859375,GA
 Pho 24,Vietnamese Restaurant,34.00063700878629,-84.16907535679636,GA
 Sushi Cafe,Asian Restaurant,34.016086,-84.163246,GA
 China Cafe,Chinese Restaurant,33.985598480535174,-84.17099177878583,GA
@@ -2491,13 +2491,13 @@ Five Spice,Asian Restaurant,33.99751519026443,-84.09163973865628,GA
 Talay Asian Cuisine,Thai Restaurant,34.00289790856896,-84.0818771638037,GA
 Sushi Osaka,Japanese Restaurant,33.997274224809935,-84.09422336232257,GA
 Saigon Café Lawrenceville,Vietnamese Restaurant,33.998556,-84.0687396,GA
-Yuka Roll & Pho,Japanese Restaurant,34.00269760465464,-84.08237633672948,GA
-Roll Pho,Asian Restaurant,34.002720630916265,-84.08228903436303,GA
+Yuka Roll & Pho,Vietnamese Restaurant,34.00269760465464,-84.08237633672948,GA
+Roll Pho,Vietnamese Restaurant,34.002720630916265,-84.08228903436303,GA
 O'Brother House Of Noodles,Asian Restaurant,33.992262,-84.061473,GA
 ATL Gom BBQ,Asian Restaurant,34.0051,-84.084656,GA
-Manhong Chinese Food,Asian Restaurant,34.004549313021386,-84.08349603122032,GA
+Manhong Chinese Food,Chinese Restaurant,34.004549313021386,-84.08349603122032,GA
 Pinocchio,Asian Restaurant,34.00474346414298,-84.0835166634354,GA
-Mizumi Ramen,Asian Restaurant,34.00146615826914,-84.08247714265617,GA
+Mizumi Ramen,Japanese Restaurant,34.00146615826914,-84.08247714265617,GA
 Hong Kong,Chinese Restaurant,34.00034,-84.071495,GA
 Sam won gak,Chinese Restaurant,34.00130720847462,-84.07672312553429,GA
 China Delight,Chinese Restaurant,34.00180918,-84.08006966114044,GA
@@ -2524,14 +2524,14 @@ So Gong Dong Tofu & B.B.Q.,Korean Restaurant,34.00488488771146,-84.0836691856384
 Gopchang On Fire,Korean Restaurant,34.00536,-84.08387,Georgia
 Live Karaoke,Asian Restaurant,34.00492851581843,-84.08442907914034,GA
 Shabuga,Japanese Restaurant,34.00476,-84.08347,GA
-Samurai Blue Japanese Grill,Asian Restaurant,33.963637928313716,-84.0358529382683,GA
+Samurai Blue Japanese Grill,Japanese Restaurant,33.963637928313716,-84.0358529382683,GA
 Orient Garden,Asian Restaurant,34.02620887688891,-84.04538746523967,GA
-Panda Express,Asian Restaurant,33.96717313940663,-84.02357301871328,GA
+Panda Express,Chinese Restaurant,33.96717313940663,-84.02357301871328,GA
 Hibachi Grill & Supreme Buffet,Asian Restaurant,33.9607383007289,-84.00311485453007,GA
 Kang Buk Sushi,Asian Restaurant,34.02368435949582,-84.04494355889621,Georgia
 New China Restaurant,Chinese Restaurant,33.95414487038338,-84.05568968943861,GA
 Hong Kong Garden,Chinese Restaurant,33.93905949205057,-83.98408513587778,GA
-Umaido Ramen,Asian Restaurant,34.023291867648915,-84.04478455385458,GA
+Umaido Ramen,Japanese Restaurant,34.023291867648915,-84.04478455385458,GA
 Baozi Asian Street Food,Chinese Restaurant,33.96126,-83.97386,GA
 Thai Lotus,Thai Restaurant,33.95510293222564,-84.05196331339417,GA
 Poetree,Korean Restaurant,34.02635770925746,-84.04625653200925,GA
@@ -2540,7 +2540,7 @@ Poke Rock Atlanta Bowl & Grill,Asian Restaurant,33.969574,-84.02324,GA
 Jade Dragon,Asian Restaurant,33.985225,-84.024844,GA
 mainmoon,Asian Restaurant,33.938051,-84.017882,GA
 Fusion,Asian Restaurant,33.98499889457242,-83.95359048951865,GA
-Teriyaki Box,Asian Restaurant,33.952618,-84.05395,GA
+Teriyaki Box,Japanese Restaurant,33.952618,-84.05395,GA
 Asian Star,Asian Restaurant,34.00384810542773,-84.03959535958263,GA
 sho gun,Asian Restaurant,33.96745078694352,-84.01771569831129,Georgia
 Main Moon No.8,Asian Restaurant,33.937733,-84.01790678501129,GA
@@ -2579,29 +2579,29 @@ Iron Guys,Korean Restaurant,34.024607,-84.045078,GA
 SoDeulNyuk,Korean Restaurant,34.02346935960284,-84.04492189181178,GA
 Green Tea At The Kids Village,Asian Restaurant,34.03155195509061,-83.90673176303892,GA
 Asia Cafe,Asian Restaurant,33.98720068663147,-83.71675925750883,GA
-Panda Express,Asian Restaurant,33.850679,-83.91964,GA
+Panda Express,Chinese Restaurant,33.850679,-83.91964,GA
 Chen's Garden,Chinese Restaurant,34.010888514722694,-83.8230788760679,GA
 Taki Hibachi & Sushi Japanese Steakhouse,Japanese Restaurant,34.000629795303375,-83.90707074355265,GA
 Suki Sushi & Asian Cuisine,Japanese Restaurant,33.84957985774569,-83.91881881885031,GA
 Oriental Garden,Chinese Restaurant,33.844734984483374,-83.90856988164212,GA
-Peking Chinese,Asian Restaurant,33.94393501070269,-83.75529232706346,GA
-China Star Buffet,Asian Restaurant,33.847768019346255,-83.91112804412842,GA
+Peking Chinese,Chinese Restaurant,33.94393501070269,-83.75529232706346,GA
+China Star Buffet,Chinese Restaurant,33.847768019346255,-83.91112804412842,GA
 Inoko's Winder,Asian Restaurant,33.987699,-83.720997,GA
 Oriental Kitchen,Chinese Restaurant,33.991360994520875,-83.75903605425745,GA
 Hong Kong Chinese Restaurant,Chinese Restaurant,34.00297534006102,-83.91281845703027,GA
 Apple grill buffet,Chinese Restaurant,33.98862264487777,-83.71870717409317,GA
 King Buffet,Chinese Restaurant,33.99924587306156,-83.71157727502525,GA
 China Wok,Chinese Restaurant,33.988324999809265,-83.72135102748871,GA
-Pho & Deli,Thai Restaurant,33.978138,-83.713326,GA
+Pho & Deli,Vietnamese Restaurant,33.978138,-83.713326,GA
 Inoko Japanese Steakhouse,Japanese Restaurant,33.98767175341314,-83.72103428025368,GA
 Tokyo House,Japanese Restaurant,33.98858592061476,-83.719194924807,GA
 green tea,Japanese Restaurant,34.03173796125522,-83.90661624427297,GA
 Pearl Lian,Asian Restaurant,34.0638373224462,-84.17174567752762,GA
 Thai Basil Kitchen,Thai Restaurant,34.124820224043496,-84.16925194297116,GA
-Panda Express,Asian Restaurant,34.07355154137943,-84.1652751343573,GA
+Panda Express,Chinese Restaurant,34.07355154137943,-84.1652751343573,GA
 Pacific Spice,Asian Restaurant,34.11047026341772,-84.1537616081471,GA
 Peking Chinese Restaurant,Chinese Restaurant,34.064972466519585,-84.07162289765351,GA
-Dandelion Chinese Restaurant,Asian Restaurant,34.12296187667965,-84.16841394951666,GA
+Dandelion Chinese Restaurant,Chinese Restaurant,34.12296187667965,-84.16841394951666,GA
 Sunshine Chinese Restaurant,Chinese Restaurant,34.06259293501105,-84.07597702547885,GA
 Mori House,Japanese Restaurant,34.0643929,-84.0750027,GA
 Bai Tong Thai,Thai Restaurant,34.06165031608236,-84.15876074244541,GA
@@ -2610,9 +2610,9 @@ Enzo Sushi,Japanese Restaurant,34.069374084472656,-84.16912841796875,GA
 Mi Chi Bistro & Sushi,Japanese Restaurant,34.04138568325809,-84.09588386368905,GA
 Golden Seven,Chinese Restaurant,34.055919288331864,-84.0634335976039,GA
 Tin Drum Asian Kitchen - Johns Creek,Asian Restaurant,34.053733,-84.175241,GA
-Eastern China Taste,Asian Restaurant,34.04961075854282,-84.0897678997484,GA
+Eastern China Taste,Chinese Restaurant,34.04961075854282,-84.0897678997484,GA
 Go-Grill,Asian Restaurant,34.038328,-84.099248,GA
-Osaka,Asian Restaurant,34.069329376272954,-84.16916668143095,GA
+Osaka,Japanese Restaurant,34.069329376272954,-84.16916668143095,GA
 Chuanyu Hotpot,Chinese Restaurant,34.041135,-84.096017,GA
 Pearl of China,Chinese Restaurant,34.06910609460486,-84.16630371088529,GA
 Main Moon,Chinese Restaurant,34.057156,-84.129818,GA
@@ -2624,19 +2624,19 @@ Wei Dao Asian Cuisine,Chinese Restaurant,34.063566,-84.170602,GA
 Majestic Thai,Thai Restaurant,34.06671946548224,-84.07160038539561,GA
 Kinyobee japanese and sushi,Japanese Restaurant,34.06695206532368,-84.07143529490273,GA
 Yasu Japanese Bistro,Japanese Restaurant,34.09187,-84.170119,GA
-Hanna Sushi Roll & Pho,Japanese Restaurant,34.065616502576354,-84.07019779086113,GA
+Hanna Sushi Roll & Pho,Vietnamese Restaurant,34.065616502576354,-84.07019779086113,GA
 Sushi Nami,Japanese Restaurant,34.065434,-84.07541,GA
 Umami,Japanese Restaurant,34.095043,-84.173395,GA
 Food 2 Go,Korean Restaurant,34.05013918876648,-84.09028887748718,GA
 Choi's Grill,Korean Restaurant,34.038357,-84.099103,GA
 P.F. Chang's,Asian Restaurant,34.0641117,-83.9828333,GA
 Lin's Bistro,Asian Restaurant,34.035750510238444,-83.9559877603304,GA
-Saigon Cafe Buford,Asian Restaurant,34.07452,-83.98475,GA
-Shogun Japanese Steak House & Sushi Bar,Asian Restaurant,34.07547328262343,-83.98635246533252,GA
+Saigon Cafe Buford,Vietnamese Restaurant,34.07452,-83.98475,GA
+Shogun Japanese Steak House & Sushi Bar,Japanese Restaurant,34.07547328262343,-83.98635246533252,GA
 Fusion Asian Cafe,Asian Restaurant,34.036047461183855,-83.9535843754678,GA
 Asian Fusion,Chinese Restaurant,34.0434599379166,-84.05430006110205,GA
 Panda Express,Chinese Restaurant,34.07586123128365,-83.98442403263688,GA
-Sushibar Sarku Japan,Asian Restaurant,34.06497018701498,-83.9843002185627,GA
+Sushibar Sarku Japan,Japanese Restaurant,34.06497018701498,-83.9843002185627,GA
 Panda Express,Chinese Restaurant,34.037743,-84.053448,GA
 Niko Niko Sushi,Japanese Restaurant,34.0665412344396,-83.98804559739557,GA
 Friend's House Chinese Cuisine,Chinese Restaurant,34.09325552781654,-83.93868802726831,GA
@@ -2646,11 +2646,11 @@ Asian Chao,Asian Restaurant,34.06497265943788,-83.98423043534989,GA
 Lee's Golden Buddha,Chinese Restaurant,34.09379945504726,-84.01124011807877,GA
 Gam Cho,Korean Restaurant,34.098715,-84.009962,GA
 Noodle Mi Asian Bistro,Asian Restaurant,34.05949821203906,-83.99581264880834,GA
-Hong Kong Buffet,Asian Restaurant,34.09829520006516,-84.01288748031918,GA
-China Hall,Asian Restaurant,34.08631608198123,-83.98845649405267,GA
+Hong Kong Buffet,Chinese Restaurant,34.09829520006516,-84.01288748031918,GA
+China Hall,Chinese Restaurant,34.08631608198123,-83.98845649405267,GA
 Aha Sushi,Japanese Restaurant,34.03618961864815,-83.98938002880325,GA
 Bourbon Street Cafe,Asian Restaurant,34.064980065312895,-83.98420309587421,GA
-Little Tokyo,Chinese Restaurant,34.064936694981334,-83.98416096091533,GA
+Little Tokyo,Japanese Restaurant,34.064936694981334,-83.98416096091533,GA
 Golden Wok,Chinese Restaurant,34.037986755371094,-84.04837799072266,GA
 China,Chinese Restaurant,34.09710359018099,-84.01615108791559,GA
 No.1 Chinese Food,Chinese Restaurant,34.036120113637,-83.98930890306832,GA
@@ -2662,7 +2662,7 @@ Kado Sushi And Steak House,Japanese Restaurant,34.10161,-83.968757,GA
 Sushi Bistro,Japanese Restaurant,34.088505,-83.996379,GA
 Kaito Wings & Hibachi,Japanese Restaurant,34.10748,-84.029434,GA
 Mo Mo Ya,Japanese Restaurant,34.093558,-84.011255,GA
-Pho 24,Asian Restaurant,34.06109,-83.990234,GA
+Pho 24,Vietnamese Restaurant,34.06109,-83.990234,GA
 Sushi,Japanese Restaurant,34.036123,-83.9893677,GA
 Okame Japanese Restaurant,Japanese Restaurant,34.069035,-83.986534,Georgia
 Wicked Sushi & Grill,Japanese Restaurant,34.068245,-83.9808,GA
@@ -2670,13 +2670,13 @@ Warku,Japanese Restaurant,34.03524703026545,-84.05005742641508,GA
 Viet Taste,Vietnamese Restaurant,34.06821185027661,-83.98094444612259,GA
 Jinju Garden,Korean Restaurant,34.039039611816406,-84.05486297607422,GA
 Danji,Korean Restaurant,34.073147,-83.984838,GA
-Gom Shabu Shabu,Korean Restaurant,34.03467726498141,-84.05064576720115,GA
+Gom Shabu Shabu,Japanese Restaurant,34.03467726498141,-84.05064576720115,GA
 Pearl Garden BBQ,Korean Restaurant,34.038776456365575,-84.05481043710054,GA
 CupPoki,Japanese Restaurant,34.064748,-83.984139,GA
 Pao Pao Ramen Factory,Japanese Restaurant,34.069023,-83.98666,GA
 Asian Table,Asian Restaurant,34.137501142063066,-84.10278189290646,Georgia
-Moto Japanese Steak And Sushi,Asian Restaurant,34.18867432336892,-84.14470250571847,GA
-Ichiban Buffet,Asian Restaurant,34.18840472045022,-84.1422949485699,GA
+Moto Japanese Steak And Sushi,Japanese Restaurant,34.18867432336892,-84.14470250571847,GA
+Ichiban Buffet,Japanese Restaurant,34.18840472045022,-84.1422949485699,GA
 Chopsticks China Bistro,Chinese Restaurant,34.15347965889798,-84.17337262161884,GA
 Hong Kong Chinese Restaurant,Chinese Restaurant,34.18767076726273,-84.13839631296348,GA
 Kani House,Japanese Restaurant,34.18933986323908,-84.13088188821855,GA
@@ -2691,10 +2691,10 @@ Ninja Steakhouse,Japanese Restaurant,34.1625970650769,-84.11429270028827,GA
 Q Korean Steakhouse,Korean Restaurant,34.182344,-84.13522,GA
 Q Korean Steakhouse,Korean Restaurant,34.18188,-84.135102,GA
 Q Korean BBQ Steakhouse,Korean Restaurant,34.182556,-84.135394,GA
-Little Tokyo,Asian Restaurant,34.141481082622356,-84.02093374919427,GA
+Little Tokyo,Japanese Restaurant,34.141481082622356,-84.02093374919427,GA
 Chef Wang II,Chinese Restaurant,34.14552360678922,-83.95870252425847,GA
 Kenzo Sushi,Asian Restaurant,34.14531,-83.95689,GA
-China Garden,Asian Restaurant,34.142483669241216,-83.95110926666348,GA
+China Garden,Chinese Restaurant,34.142483669241216,-83.95110926666348,GA
 Golden Pheonix,Chinese Restaurant,34.142586,-83.950935,GA
 Wasabi Sushi,Asian Restaurant,34.21766677311946,-83.86277762629523,GA
 Iron Wok,Chinese Restaurant,34.06948143818447,-83.91248944202759,GA
@@ -2709,7 +2709,7 @@ Ki Rin Asian Restaurant,Asian Restaurant,34.119194792290756,-83.82516860961914,G
 mizu,Asian Restaurant,34.10704333549033,-83.87316830962749,Georgia
 Sushi Heeya,Asian Restaurant,34.107075,-83.874472,GA
 Asian Garden Dacula,Asian Restaurant,34.073336952824924,-83.91535777790983,GA
-Peking Garden,Asian Restaurant,34.11017008909879,-83.87705326080322,GA
+Peking Garden,Chinese Restaurant,34.11017008909879,-83.87705326080322,GA
 Peking Chinese,Chinese Restaurant,34.107388,-83.70366403,GA
 Golden Palace Express,Chinese Restaurant,34.07114341299247,-83.91201670508907,GA
 China Garden Ii,Chinese Restaurant,34.176205,-83.911417,GA
@@ -2744,18 +2744,18 @@ Utage Athens Sushi Bar,Japanese Restaurant,33.95882576928974,-83.3738310189785,G
 China Star Superbuffet,Chinese Restaurant,33.9373181035792,-83.4555536226288,GA
 Golden Sun,Chinese Restaurant,33.933152432108294,-83.30842491247398,GA
 China Wok,Chinese Restaurant,33.97308403721243,-83.41657314222006,GA
-Athens Wok,Asian Restaurant,33.95909430904168,-83.37317206698106,GA
+Athens Wok,Chinese Restaurant,33.95909430904168,-83.37317206698106,GA
 Wok Star,Chinese Restaurant,33.971966615240575,-83.28898260392009,GA
 Siri Thai Cuisine,Thai Restaurant,33.96011099944896,-83.38367091965934,GA
 Inoko Japanese Steak & Seafood House,Japanese Restaurant,33.94770577680963,-83.40901602749527,GA
 New Orleans Grille,Asian Restaurant,33.943643,-83.46678,GA
-Blia's Thai Kitchen,Asian Restaurant,33.96002011675984,-83.3838164806366,GA
+Blia's Thai Kitchen,Thai Restaurant,33.96002011675984,-83.3838164806366,GA
 Donna Chang's,Asian Restaurant,33.938181,-83.387313,GA
-Teriyaki 101,Asian Restaurant,33.916500596342075,-83.44482804771549,GA
+Teriyaki 101,Japanese Restaurant,33.916500596342075,-83.44482804771549,GA
 New Red Bowl,Asian Restaurant,33.923332,-83.340088,GA
-Wok's Up,Asian Restaurant,33.916766,-83.454909,GA
-China Garden,Asian Restaurant,34.11205637579728,-83.57745730603962,GA
-No. 1 China,Asian Restaurant,33.96443385125477,-83.59742958389064,GA
+Wok's Up,Chinese Restaurant,33.916766,-83.454909,GA
+China Garden,Chinese Restaurant,34.11205637579728,-83.57745730603962,GA
+No. 1 China,Chinese Restaurant,33.96443385125477,-83.59742958389064,GA
 Cozy Yum Yum,Thai Restaurant,33.958611493272294,-83.37453705870344,GA
 Iron Factory,Korean Restaurant,33.95813787674437,-83.37951765752457,GA
 Just Pho and More,Vietnamese Restaurant,33.94720320721197,-83.39765020231846,GA
@@ -2785,13 +2785,13 @@ Mother Pho,Vietnamese Restaurant,33.957817,-83.375896,GA
 Korean Cuisine,Korean Restaurant,33.957496643066406,-83.37637329101562,GA
 Takorea,Korean Restaurant,33.957969,-83.374215,GA
 D92 Korean Bbq,Korean Restaurant,33.947414,-83.399284,GA
-Great Wall,Asian Restaurant,33.46159359009854,-82.50666774099453,GA
+Great Wall,Chinese Restaurant,33.46159359009854,-82.50666774099453,GA
 China Number 1,Chinese Restaurant,33.79241108894348,-82.47908592224121,GA
 Lucky's Chinese Restaurant,Chinese Restaurant,33.4860785497661,-82.50454807150622,GA
 Ming Wah,Chinese Restaurant,33.507854216666665,-82.50338385,GA
 Takosushi,Asian Restaurant,33.4845326,-82.0300098,GA
-Fuji Asian,Asian Restaurant,33.54004905064889,-82.12782666468442,GA
-Sarku Japan,Asian Restaurant,33.46280799369638,-82.07891448968816,GA
+Fuji Asian,Japanese Restaurant,33.54004905064889,-82.12782666468442,GA
+Sarku Japan,Japanese Restaurant,33.46280799369638,-82.07891448968816,GA
 P.F. Chang's,Asian Restaurant,33.465513149443325,-82.08008555092624,GA
 Kinki Sushi,Asian Restaurant,33.51562939055121,-82.07013732252422,GA
 Wasabi Express,Asian Restaurant,33.51068064555076,-82.03582204070787,GA
@@ -2803,7 +2803,7 @@ Solé,Japanese Restaurant,33.47721755290259,-81.97063951915321,GA
 Miyabi Kyoto Japanese Steak House,Japanese Restaurant,33.47138933838224,-82.08672509972618,GA
 Izumi Japanese Restaurant,Japanese Restaurant,33.54039606288774,-82.1345827048543,GA
 Miyako,Japanese Restaurant,33.511742092985706,-82.03071084823546,GA
-Sun Kwong Chinese Restaurant,Asian Restaurant,33.48658629873144,-82.13575217616693,GA
+Sun Kwong Chinese Restaurant,Chinese Restaurant,33.48658629873144,-82.13575217616693,GA
 Takosushi,Japanese Restaurant,33.52961769843977,-82.13325262929723,GA
 Toki Hibachi & Sushi,Japanese Restaurant,33.54713573739079,-82.14954212889306,GA
 Yosko Japanese Steakhouse,Japanese Restaurant,33.51092337876692,-82.0327137595836,GA
@@ -2820,12 +2820,12 @@ Formosa's II,Chinese Restaurant,33.5111818692358,-82.08586336104119,GA
 New Ming Wah,Chinese Restaurant,33.46843176659274,-82.07679660886672,GA
 Pho Bac,Vietnamese Restaurant,33.532272077163086,-82.12618256472366,GA
 Tao Asian Cuisine,Asian Restaurant,33.540009,-82.127901,GA
-Japaneese Buffer,Asian Restaurant,33.540405,-82.134547,GA
+Japaneese Buffer,Japanese Restaurant,33.540405,-82.134547,GA
 Yumo Restaurant,Asian Restaurant,33.5375314950943,-82.13041484355927,GA
-Master Wok,Asian Restaurant,33.46264516392074,-82.07888435343156,GA
-New China,Asian Restaurant,33.53415958740015,-82.12754233687741,GA
+Master Wok,Chinese Restaurant,33.46264516392074,-82.07888435343156,GA
+New China,Chinese Restaurant,33.53415958740015,-82.12754233687741,GA
 Emashiya,Asian Restaurant,33.50941135660257,-82.10271642011115,Georgia
-Tokyo Express,Asian Restaurant,33.48062384715356,-82.13155205057662,GA
+Tokyo Express,Japanese Restaurant,33.48062384715356,-82.13155205057662,GA
 Fujiyama Japanese Steakhouse,Japanese Restaurant,33.51343458964498,-82.04961997689702,GA
 Hibachi Grill,Chinese Restaurant,33.46797939538963,-82.08666813985832,GA
 Osaka Sushi,Japanese Restaurant,33.544608677384865,-82.13887246395262,GA
@@ -2871,7 +2871,7 @@ Koi Hibachi & Sushi,Japanese Restaurant,33.51204,-82.09168,GA
 Asian Market,Korean Restaurant,33.52583202429364,-82.07150235304991,GA
 Genghis Grill,Asian Restaurant,33.48779252736721,-82.07995922069054,GA
 Kumo Hibachi & Sushi,Asian Restaurant,34.79559785736615,-84.96366719528989,GA
-Kobe,Asian Restaurant,34.94307540370683,-85.2226809861504,GA
+Kobe,Japanese Restaurant,34.94307540370683,-85.2226809861504,GA
 Ming Moon,Chinese Restaurant,34.95344538302086,-85.25867016361349,GA
 Golden Crown Chinese,Chinese Restaurant,34.28626927285301,-85.21904631572275,GA
 Panda Express,Chinese Restaurant,34.47146749812746,-84.92123029495922,GA
@@ -2881,7 +2881,7 @@ China City,Chinese Restaurant,34.93877566970072,-85.216768269732,GA
 Kobe Japanese Steakhouse,Japanese Restaurant,34.943191834262635,-85.22270269674951,GA
 soho hibachi,Japanese Restaurant,34.26821672943774,-85.21308331481033,GA
 Thai Garden,Thai Restaurant,34.95524388800122,-85.25352606856062,GA
-Toyo Japan,Asian Restaurant,34.76206981246008,-84.93052763702096,GA
+Toyo Japan,Japanese Restaurant,34.76206981246008,-84.93052763702096,GA
 Yummy Thai Food,Thai Restaurant,34.25593263487588,-85.16948305088714,GA
 Fuji Japanese Steak Seafood & Sushi House | 富士和食ステーキシーフードと寿司ハウス (Fuji Japanese Steakhouse),Japanese Restaurant,34.758045372224885,-84.99107695439969,GA
 Panda Express,Chinese Restaurant,34.76059565040418,-84.99876991274628,GA
@@ -2892,18 +2892,18 @@ Soho Hibachi,Japanese Restaurant,34.95287739034006,-85.24764030708339,GA
 Jasmine Thai,Thai Restaurant,34.28592522688796,-85.21641132603597,GA
 Chef Lin Buffet & Mongolian Grill,Asian Restaurant,34.762643119851035,-84.97076668778433,GA
 China City,Chinese Restaurant,34.275422721279504,-85.18212689288771,GA
-New China,Asian Restaurant,34.761693384970016,-84.93491113185883,GA
+New China,Chinese Restaurant,34.761693384970016,-84.93491113185883,GA
 Kabuto Grill,Asian Restaurant,34.949981,-85.233657,GA
-Peking Express,Asian Restaurant,34.77689530017533,-84.96503895914782,GA
-Teriyaki Express,Asian Restaurant,34.37749333085978,-84.90834085479,GA
-China Palace,Asian Restaurant,34.47858405959931,-84.9363409556259,GA
-Teriyaki bistro,Asian Restaurant,34.761701,-84.934953,GA
+Peking Express,Chinese Restaurant,34.77689530017533,-84.96503895914782,GA
+Teriyaki Express,Japanese Restaurant,34.37749333085978,-84.90834085479,GA
+China Palace,Chinese Restaurant,34.47858405959931,-84.9363409556259,GA
+Teriyaki bistro,Japanese Restaurant,34.761701,-84.934953,GA
 Bamboo Garden,Asian Restaurant,34.377988461489586,-84.93227006326939,GA
-Toyo II Japan,Asian Restaurant,34.782208,-84.793386,GA
+Toyo II Japan,Japanese Restaurant,34.782208,-84.793386,GA
 Okinawa Hibachi & Sushi,Japanese Restaurant,34.34495847806195,-84.90920148743967,Georgia
-New Chinese Buffet,Asian Restaurant,34.272013052603846,-85.2279190759846,GA
+New Chinese Buffet,Chinese Restaurant,34.272013052603846,-85.2279190759846,GA
 Little Tokyo,Japanese Restaurant,34.758812579463815,-84.93422678723648,GA
-Teriyaki Chef,Chinese Restaurant,34.47742413081169,-84.93268123897163,GA
+Teriyaki Chef,Japanese Restaurant,34.47742413081169,-84.93268123897163,GA
 Ru Sans,Japanese Restaurant,34.25837334669975,-85.16117644442362,GA
 Chef Lin,Chinese Restaurant,34.94873089311013,-85.2923247410121,GA
 China House,Chinese Restaurant,34.911889,-85.130394,GA
@@ -2918,7 +2918,7 @@ Bamboo,Chinese Restaurant,34.95277587,-85.24759903,GA
 Chef Chen Buffet,Chinese Restaurant,34.31211781381314,-85.17177415800771,GA
 Emperor Of China,Chinese Restaurant,34.793001400735264,-84.96337759641786,GA
 Great Wall Chinese Restaurant,Chinese Restaurant,34.88874818980965,-85.26929993311381,GA
-Teriyaki Passion,Chinese Restaurant,34.463773,-84.917782,GA
+Teriyaki Passion,Japanese Restaurant,34.463773,-84.917782,GA
 Golden Crown,Chinese Restaurant,34.22706554554373,-85.16693477868107,GA
 New China Buffet,Chinese Restaurant,34.761731948213246,-84.934862590663,GA
 Fortune Cookie,Chinese Restaurant,34.76180970668793,-84.9686081,GA
@@ -2944,14 +2944,14 @@ bluefin,Japanese Restaurant,34.26110567639312,-85.15973156085467,GA
 Bluefin,Asian Restaurant,34.32530718729766,-83.81537288218281,GA
 Ably asian cuisine,Asian Restaurant,34.470285710665145,-84.45872779792792,GA
 Asiano's,Asian Restaurant,34.96352094623006,-83.78229806033801,GA
-Panda Express,Asian Restaurant,34.351177,-84.048815,GA
+Panda Express,Chinese Restaurant,34.351177,-84.048815,GA
 Mei Garden,Chinese Restaurant,34.2329300779655,-83.87423971273692,GA
-Fuji Hibachi Express,Asian Restaurant,34.29966162670002,-83.82347390944352,GA
+Fuji Hibachi Express,Japanese Restaurant,34.29966162670002,-83.82347390944352,GA
 Chin Chin,Chinese Restaurant,34.35509595239876,-84.04563752305691,GA
 Peking Garden,Chinese Restaurant,34.46591938116912,-84.46081712981287,GA
 China Star,Chinese Restaurant,34.23614076333982,-84.45315579927122,GA
 China Garden,Chinese Restaurant,34.250206038272694,-84.09135609694854,GA
-Panda Express - Canton,Asian Restaurant,34.249504170110804,-84.47708364443392,GA
+Panda Express - Canton,Chinese Restaurant,34.249504170110804,-84.47708364443392,GA
 Golden Buddha,Chinese Restaurant,34.22917373364821,-83.87044544156413,GA
 Hibachi Buffet,Chinese Restaurant,34.28760251330811,-83.84271395113993,GA
 Rice Restaurant & Sushi Bar,Japanese Restaurant,34.25820462561809,-84.07165298540339,GA
@@ -2968,18 +2968,18 @@ Sunflower Restaurant,Chinese Restaurant,34.58527374145655,-83.76170556255163,GA
 Kiku Japanese Steak & Sushi,Japanese Restaurant,34.29733026003393,-83.85631922301035,GA
 HanA Japanese Steak Housr,Japanese Restaurant,34.255753898401544,-84.4826950374132,GA
 Habachi grill,Asian Restaurant,34.3643325060953,-84.03968311013598,GA
-No. 1 Chinese,Asian Restaurant,34.8708039522171,-83.96193981170654,GA
+No. 1 Chinese,Chinese Restaurant,34.8708039522171,-83.96193981170654,GA
 Hibachi Buffet,Asian Restaurant,34.36438913814541,-84.03999281695526,GA
-Rice Chinese Restaurant,Asian Restaurant,34.27111044317378,-84.50242276301036,GA
+Rice Chinese Restaurant,Chinese Restaurant,34.27111044317378,-84.50242276301036,GA
 Tin Loong & Dragon Tail Lounge,Asian Restaurant,34.880126892728114,-84.29660879035448,GA
 FUKU Asian Bistro,Asian Restaurant,34.25733746060827,-84.07541797719783,GA
 Jump Asian Express,Asian Restaurant,34.357948,-84.047077,GA
 Bowl of Asia,Asian Restaurant,34.97194293320583,-83.82703368764732,Georgia
-Sumo Hibachi & Wings,Asian Restaurant,34.29456,-83.851631,GA
+Sumo Hibachi & Wings,Japanese Restaurant,34.29456,-83.851631,GA
 Golden Palace,Chinese Restaurant,34.23915888874083,-84.19349381965027,GA
 Chef Wang,Chinese Restaurant,34.29091590949839,-83.84160248860223,GA
 Jin's Buffet,Chinese Restaurant,34.254623,-84.463191,GA
-Hong Kong King Buffet,Asian Restaurant,34.29314,-83.82977266666667,GA
+Hong Kong King Buffet,Chinese Restaurant,34.29314,-83.82977266666667,GA
 Okinawa Japanese Steak House,Japanese Restaurant,34.6753453347897,-84.47918986835144,GA
 Hot N Cold Buffet,Japanese Restaurant,34.65861293288763,-84.48909836658812,GA
 Magic Wok,Chinese Restaurant,34.53947473055009,-83.97336636131075,GA
@@ -3177,7 +3177,7 @@ Indian Bazzar,Indo-Pak Restaurant,33.92775800168918,-84.31129902287337,GA
 Al-Amin,Indo-Pak Restaurant,33.90151971571222,-84.27654796644055,GA
 Indian Grill Restaurant,Indo-Pak Restaurant,33.93302768917602,-84.1813678812861,GA
 Bay Leaf,Indo-Pak Restaurant,33.927881992149686,-84.31135134830234,GA
-Chinese Dhaba,Indo-Pak Restaurant,33.91440743661091,-84.20752168954412,GA
+Chinese Dhaba,Chinese Restaurant,33.91440743661091,-84.20752168954412,GA
 Agha Juice,Indo-Pak Restaurant,33.89711371679676,-84.20038661343958,GA
 Mumbai Masala,Indo-Pak Restaurant,33.91426544063921,-84.20758750751835,GA
 Shalimar,Indo-Pak Restaurant,33.853112968968446,-84.30714450980764,GA
@@ -3277,7 +3277,7 @@ Currylicious,Indo-Pak Restaurant,33.97505595256451,-84.09319606601925,GA
 Kerala Kitchen,Indo-Pak Restaurant,33.902691026920174,-84.00522867426325,GA
 Bukharaa Indian Restaurant,Indo-Pak Restaurant,34.06925145903619,-84.16669078719903,GA
 Moksha Kitchen,Indo-Pak Restaurant,34.016017522868516,-84.16328854588552,GA
-Chinese Dhaba,Indo-Pak Restaurant,33.95745456212511,-84.11201678772667,GA
+Chinese Dhaba,Chinese Restaurant,33.95745456212511,-84.11201678772667,GA
 Poona Indian Restaurant,Indo-Pak Restaurant,33.942279681919025,-84.12545509618268,GA
 BAPS Shayona,Indo-Pak Restaurant,33.88547985355456,-84.16471472282126,GA
 Shahi Bazaar,Indo-Pak Restaurant,33.88814185129754,-84.06190661356659,GA
@@ -3289,7 +3289,7 @@ Little India Express Cafe,Indo-Pak Restaurant,34.060985134703955,-83.98811036092
 bukharaa,Indo-Pak Restaurant,34.068797515983746,-84.16713251903454,GA
 The Curry Pot,Indo-Pak Restaurant,34.04005949807355,-84.0540363565772,GA
 Lajawaab,Indo-Pak Restaurant,34.022470452359954,-84.14955511499443,GA
-Chili China,Indo-Pak Restaurant,33.957500584113355,-84.11217315410462,GA
+Chili China,Chinese Restaurant,33.957500584113355,-84.11217315410462,GA
 Curry Mantra,Indo-Pak Restaurant,33.974987,-84.09309,GA
 Shahi Grill,Indo-Pak Restaurant,33.88818135282145,-84.06218950742434,GA
 Spice Oven,Indo-Pak Restaurant,33.913315,-83.97091,GA
@@ -3316,7 +3316,7 @@ Spice Garden,Indo-Pak Restaurant,34.022615,-84.149599,GA
 Gokul Sweets,Indo-Pak Restaurant,34.02080790607742,-84.16229871138776,GA
 Chaat Ka Chaska,Indo-Pak Restaurant,33.882675,-84.163703,GA
 Chaska Indian Restaurant,Indo-Pak Restaurant,33.88295165185406,-84.16342376525463,GA
-Chinese Dhaba,Indo-Pak Restaurant,34.077403036722764,-84.16246175765991,GA
+Chinese Dhaba,Chinese Restaurant,34.077403036722764,-84.16246175765991,GA
 Taste Of India,Indo-Pak Restaurant,33.957512803592415,-83.37652960233432,GA
 Kabana Authentic India & Jamaican Cuisine,Indo-Pak Restaurant,33.96585614048809,-83.4304635433859,GA
 Taj of India,Indo-Pak Restaurant,33.537396122279155,-82.0804404551477,GA
